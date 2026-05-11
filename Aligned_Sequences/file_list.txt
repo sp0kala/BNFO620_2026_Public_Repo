@@ -1,0 +1,8 @@
+G_borealis_annotated.fasta
+T_Capricornis_annotated.fasta
+T_acuta_annotated.fasta
+T_alcocki_annotated.fasta
+T_arcuata_annotated.fasta
+T_paradussumieri_annotated.fasta
+T_polita_annotated.fasta
+T_rosea_annotated.fasta
