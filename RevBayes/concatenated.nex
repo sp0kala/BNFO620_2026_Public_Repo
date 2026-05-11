@@ -1,0 +1,1277 @@
+#NEXUS
+[Data written by write.nexus.data.R, Tue Mar 17 16:18:37 2026]
+BEGIN DATA;
+  DIMENSIONS NTAX=8 NCHAR=11253;
+  FORMAT DATATYPE=DNA MISSING=? GAP=- INTERLEAVE=YES;
+  MATRIX
+    G_borealis            --------------------------------------------------------------------------------
+    T_Capricornis         --------------------------------------------------------------------------------
+    T_acuta               --------------------------------------------------------------------------------
+    T_alcocki             --------------------------------------------------------------------------------
+    T_arcuata             --------------------------------------------------------------------------------
+    T_paradussumieri      ataactaacctattctcaatttttgagccttcttctagagtatttaacctctcaactaactgattgtctacaattttagg
+    T_polita              ataactaatttattctcaatttttgaaccttcctcaagagtgtttaatctctcaacaaactgaatttccacaattttagg
+    T_rosea               --------------------------------------------------------------------------------
+
+    G_borealis            ----------attccttacatttactgagcctcacccgcccgatgatctatattatgaagaaaaatcaatttaactctcc
+    T_Capricornis         ----ctttttattccttacatttattgagcgtcacctacccgctgatcaatactatgaagaaaaatcaacttaaccctcc
+    T_acuta               ----cttttcatcccttacatctactgagcatctcctactcggtgatctatactatgaagcaaaattaacttaaccctac
+    T_alcocki             ----ctatttattccctatatctattgagcatctccaactcgttgatcaatattatgaagaaaaattaatttaactctcc
+    T_arcuata             ----ctttttgttccatatatttattgagcgtcccctactcgctgatcaatattatgaagaaaaattaattcaacccttc
+    T_paradussumieri      attactttttattccttatatttattgagcatcacccacccgctgatcaatactatgaagaaaaattaacttaacccttc
+    T_polita              gctactttttattccttatatttactgagcgtctccaacacgatggtcaatgttatggagaaaaattaatttaactttgc
+    T_rosea               ----ctttttattccatatatttattgagcatcccctacccgttgatcaatattatgaagaaaaatcaatttaaccttac
+
+    G_borealis            ataaagagttcaaagccttacttttaccatcacataccggatctaccgttctctttgtrtctatcttttcccttattgta
+    T_Capricornis         ataaagagttcaaggccctgcttctgccatcccacattgggtctacaatactttttgtgtcagttttttccctaattgta
+    T_acuta               ataaagaatttaaagccctacttttaccatcccatataggatctacaatcctgtttgtatcaattttttctttaattgta
+    T_alcocki             acaaagaatttaaagctctattactaccctctcacactggatctacaatactctttgtatcaattttttcactaattgta
+    T_arcuata             ataaagaatttaaagctttacttttaccgtctcatattggatctacaatactcttcgtttcaatcttttctttaattgta
+    T_paradussumieri      ataaagagtttaaagccttactcttaccgtcccacattggatctaccatactttttgtgtcaattttttccctaattgta
+    T_polita              ataaagaattcaaagctcttcttctaccatcccatattggatctacaatactttttgtatcaattttctcgttaattgta
+    T_rosea               ataaagagtttaaagctctgcttttaccttcccacatcggatctacaatgctttttgtgtcaatcttttccttaattgta
+
+    G_borealis            tttaataactttttaggtttactgccctatgtatttaccagatcaagacatatggctataactttatctttatcccttcc
+    T_Capricornis         ttcaacaattttctaggacttctaccctatgtatttaccagatcaaggcacatagcaataacgctatctttatccctccc
+    T_acuta               ttcaataattttttaggtcttcttccttacgtatttactagatcaaggcatatagtaataacattgtctttatccctccc
+    T_alcocki             tttaataattttttaggacttttaccttatgtattcaccagatcgagacatatagcaataaccttatctttatctctccc
+    T_arcuata             ttcaacaatttcttaggacttttaccttacgtgtttactagatcgagacatatagcaataacactctcgttatccctccc
+    T_paradussumieri      ttcaacaattttctaggacttctaccttatgtatttaccagatcaagacatatagcaataacactatctttatcccttcc
+    T_polita              ttcaacaactttttaggacttttaccttatgtatttactagatcaagacatatagcaataacactatccttatccctccc
+    T_rosea               ttcaataattttttagggctcctgccctacgtatttaccagatcaagacatatagcaataaccttatccttatccctccc
+
+    G_borealis            cttatgatttacattgatactatttggatgaatcaaccatgcaaaacatatatttgctcacctagtgccccaaggaaccc
+    T_Capricornis         gttatgatttacacttatattatttggatgaattcaacatacaaaacatatatttgctcatttagttccacaaggaaccc
+    T_acuta               cctttggtttacacttatattatttggatgaattcagcatacgaaacatatatttgcccatttagtgccacaaggaactc
+    T_alcocki             tttatgatttacacttatattattcggctgaattcagcacacaaaacacatatttgctcacttagttccacaaggaactc
+    T_arcuata             cttatgatttacactaatgttcttcggttggatccaacatacaaaacatatgttcgctcacttagtgccacaaggaaccc
+    T_paradussumieri      attatgatttacacttatattatttggatggattcaacatacaaaacatatatttgctcatttagttccacagggaactc
+    T_polita              attatggtttacacttatattctttggatgaattcagcatacaaaacatatatttgcccatttagtgccgcaagggactc
+    T_rosea               attatgatttacacttatattatttggatggattcaacacacgaaacacatattcgcccatctagtaccgcaaggaaccc
+
+    G_borealis            cgtttgctcttataccatttatagtactaattgaaacgatcagaaatgtaatccgacctgggacactggccgtgcgacta
+    T_Capricornis         ctgccgctcttatacctttcatagtgctaattgaaacaattagaaatgttatccgacctgggacattagcggttcgtctt
+    T_acuta               ctgctgccctaataccctttatagtaatcattgaaacaattagaaatattatccgacctgggactttggcagtacgtctg
+    T_alcocki             ctaccgctcttataccttttatagtattaattgaaacaattagaaatgttattcgacctggaacattagcagtacgtctt
+    T_arcuata             ctgctgctcttatgccctttatagtactaattgaaacgattagaaatgttattcggcctggtacattagcagtccgtctt
+    T_paradussumieri      ctgccgctctaatacctttcatagtattgattgaaacaattagaaatgtcatccgacctggaacactggcagttcgtctt
+    T_polita              ccgctgcccttataccctttatagtactaattgaaacaattagaaatgttatccgacctggaacattagcagtccgtctt
+    T_rosea               ctgctgctcttataccttttatagtattaattgaaacaatcagaaatattattcgtccaggaacactggcagttcgactt
+
+    G_borealis            gccgctaacataattgctggccatcttctattaacccttttaggaggtacagggccatctctatcaacgactttagtgct
+    T_Capricornis         gccgcaaatataattgccggacatttattacttactttattaggtgggactggccccgctctttcaacgtttttagtatt
+    T_acuta               gccgctaacataattgccggacatcttttactcactctactaggaggtacaggcccagccctttcaacatttttgatctt
+    T_alcocki             gccgcaaacataattgctggtcatttattacttaccttgttaggtggtacaggtccttctctttcaacatttttagtttt
+    T_arcuata             gctgcgaatataattgctggtcacctactactcacattattaggaggaactggaccatctctctcaacattcttagtttt
+    T_paradussumieri      gctgcaaatataattgccggacatttactacttactttgttgggtgggactggccccgctctttcaacattcttagtatt
+    T_polita              gccgcaaacataattgcaggacaccttctacttactttattaggaggtactggaccttctctttcaacactcctagttct
+    T_rosea               gccgcaaacataattgccggacatcttcttctcactttattaggaggtacaggccccgctctttcgacatttctagtatt
+
+    G_borealis            tctactcttatcagcacaaattctattactaatcctagaatctgccgtcgcaattattcaatcttacgtatttgcagttc
+    T_Capricornis         tttacttatttcagcacaaattatattattaatcctagaatctgctgttgcaattattcaatcttatgtctttgcagtac
+    T_acuta               catcctaatttcagcacaaattgcattattagttctagaatctgctgttgcaattattcaatcttatgtatttgcagtat
+    T_alcocki             tctactcctctcagcacaaattttactattaatcttagaatctgctgttgcaattattcaatcttatgtttttgcagtac
+    T_arcuata             tttacttcttctagcacagattatattactaattctagaatctgctgtcgcaattattcaatcttatgtttttgcagtac
+    T_paradussumieri      tttacttctttcagcacaaattatattattaattctagaatctgctgttgcaattattcaatcttatgtctttgcagtat
+    T_polita              tttactcatttcagcacaaattttactattaattctagaatctgccgtcgcaattattcaatcatatgtatttgcagtac
+    T_rosea               tttacttctctcagcacaaatcttattactaattctagaatctgccgttgcaattattcaatcttatgtttttgcagttt
+
+    G_borealis            taagaactctttatacaggagag---------atgcctcaaatagcccctctttattgacttttattattcttcttcttc
+    T_Capricornis         taagaactctttatacaagagaa---------atgccacaaatagctcctttatattgacttatattgttcttcttcttt
+    T_acuta               taagaactctttatacaagagaa---------atgccacaaatagctcctctatattgactcagtttgttcttttttttc
+    T_alcocki             taagaactctttatacaagagaa---------atgccacaaatagctcctttatattgacttatattattcttttttttc
+    T_arcuata             taagaactctttacacaagagaa---------atgccacaaatagctcccttatactgattagttttatttttctttttt
+    T_paradussumieri      taagaactctttatacaagagaaattaactaaatgccacaaatagctcctttatattgactcgtattgttcttcttcttt
+    T_polita              taagaactctttatacaagagaaattaactaaatgccacaaatagctcccttatactgactagttttattttttttcttt
+    T_rosea               taagaactctttatacaagagaa---------atgccacaaatagctcctctatactgattagtcttattttttttcttc
+
+    G_borealis            ctgttagttttattaacattttttataataaactatttcatcaaaccatttgaaaaa-----------------------
+    T_Capricornis         ttatttagattattccttttctttacaataaactatttcatcaaaccttttgaaaaaaaagattgcgttacaaaaaagcc
+    T_acuta               cttctaagactatccttattttttataatgaactattttattaaacccttcgaaaaaaaa--------------------
+    T_alcocki             ttatttagattatttcttttttttacaataaattatttcattaaaccctttgaaaaaaaagattatactacaaaaaaacc
+    T_arcuata             atggttagactatttctattctttgcaattaactactttgtaaagcctttcgaaaaaaaagaccatactataaaaaaacc
+    T_paradussumieri      ttatttagattattccttttctttacaataaactactttatcaagccttttgaaaaaaaagactgaattataaaaaaacc
+    T_polita              ttatttagattactactattttccacaataaactattttattaaacctttcgaaaaaaaagatcattctataaaaaaacc
+    T_rosea               ctatttagattattcctattctttacaataaattacttcattaaacctttcgaaaaaaaagaccatattacaaaaaaacc
+
+    G_borealis            -------------------------------------acacctctacgtaaatcacacccattatttaaaattgcaaata
+    T_Capricornis         ggaccttaattttaaa---------------------acacccttacgaaaatcccatcccctatttaaaattgcaaatg
+    T_acuta               aggtcccaccttaaaactccaagc-------------acaccacttcgaaaatctcaccccctatttaaaattgcaaata
+    T_alcocki             aaatcttaactttaaaacc------------------acacctttacgaaaatcacaccctttattcaaaattgcaaaca
+    T_arcuata             agatcttaactttaaa---------------------acacccttacgaaaatctcaccctttatttaagattgcaaata
+    T_paradussumieri      agaccttaattttaaaacctgaatattataaatgacaacacctttacgaaaatcccatcctctatttaaaattgcaaata
+    T_polita              aactcttaattttaaaatctgaacattataaatgacaacacctttacgaaaatctcatcccttatttaaaattgcaaata
+    T_rosea               agatcttaattttaaa---------------------acacctctacgaaaatcccaccctttatttaaaattgcaaata
+
+    G_borealis            atgctttggtagatataccgctacctaggaatatttccacattttgaaactttggttccctcctaggattatgtctagta
+    T_Capricornis         gtgcgttagtagatatacctttacctagaaatatttccacattttgaaattttggatccctactaggactatgcttagta
+    T_acuta               acgcactagtagatataccactcccaagaaacatttccacattttgaaattttggttctcttttaggattatgtttagtt
+    T_alcocki             acgcactagttgatatacccctcccaagaaacatttctacattttgaaactttggttctcttttaggattatgtttaatt
+    T_arcuata             atgcactagtagatatacccctcccttcaaacatctctacattctgaaactttggttctctattaggcttatgcctaatc
+    T_paradussumieri      atgcattagtggatatacccctacctagaaatatttccacgttttgaaattttggatctctactaggactatgcttagta
+    T_polita              acgctctagtagacatacctcttccaagaaatatttccacgttttgaaattttggatctttattaggactatgtttaatc
+    T_rosea               acgccttagtagatatacctcttccaagaaacatttctaccttctgaaactttggctctctcttaggattatgtttaatt
+
+    G_borealis            gtacaaatccttacagggctatttttggctatacattatacagctcacatcaatctagccttttcaagagttgtccacat
+    T_Capricornis         atccaaattcttacaggattattcctggctatacactacactgctcacattaatcttgctttttcaagagtcgttcacat
+    T_acuta               attcaaatcttaactggcctatttttagctatacactataccgcccatattaacctagctttctcaagagtagtccacat
+    T_alcocki             atccaaattcttacaggactatttctggctatacattataccgcccatatcaatcttgcctttgcaagagttgttcacat
+    T_arcuata             gtccaaattcttacaggattatttttagctatacactacaccgctcacatcaatttagctttctctagagttgttcacat
+    T_paradussumieri      atccaaattcttaccggattattcctggctatacactacactgctcacattaatcttgctttttcaagagtcgttcatat
+    T_polita              atccagatccttacagggttatttcttgctatacattataccgcccatattaacctagctttttcaagagttgttcacat
+    T_rosea               atccaaattcttacaggattatttttagctatacactacaccgctcatattaacttagctttttcaagagttgtccatat
+
+    G_borealis            ttgtcgtgacgtaaattatggttggttattacgaactttacatgccaatggagcatcatttttttttatttgtctttata
+    T_Capricornis         ttgccgtgacgtaaactacggatgacttttacgaactattcatgccaacggagcttcctttttttttatttgtttatata
+    T_acuta               ttgtcgagacgtaaattacgggtgacttttacgaactattcacgctaacggggcttcttttttttttatttgcttataca
+    T_alcocki             ttgtcgagatgtaaattacggctgacttctacgaactattcatgccaatggagcttcttttttttttatttgtttatata
+    T_arcuata             ttgccgagacgttaattacggctgacttttacgaaccattcatgctaatggggcttcttttttttttatttgtttatata
+    T_paradussumieri      ttgccgtgatgtaaactacggatgacttttacgaactattcacgccaacggggcttcctttttttttatttgtttatata
+    T_polita              ttgtcgcgatgtaaattatggttgactattacgaaccattcatgctaatggagcttcttttttcttcatttgtctttata
+    T_rosea               ttgccgtgacgtaaattacggatgacttttacgaactattcacgccaatggtgcttcttttttctttatttgtttatata
+
+    G_borealis            ttcatattggacgaggaatctattttagatcttatataaatcttcatgcctgaatagtgggtgtagtcatcttatttata
+    T_Capricornis         tccacattggacgaggaatttactttagatcttacataaatctccatgcttgaatagtaggggtcgtaatcttatttata
+    T_acuta               ttcatatcggacgaggaatttactttagatcttatataaatcttcatgcctgaatagttggagtggtaattctatttata
+    T_alcocki             ttcatattggacgaggaatttattttagatcatatataaatctccacgcctgaatagttggggtagtaattttatttata
+    T_arcuata             tccacattggacgaggaatttattttagatcttatataaaccttcacgcttgaatagttggagtagtgattttattcata
+    T_paradussumieri      ttcacatcggacggggaatttactttagatcctacataaatcttcatgcttgaatagttggggttgtaatcttattcata
+    T_polita              ttcatattggacggggaatttattttagatcatatataaatcttcatgcttgaatagttggagtagtaattttatttata
+    T_rosea               tccatattggacgaggaatttattttagatcttacataaaccttcatgcctgaatagtaggagtagtaattctgtttata
+
+    G_borealis            attatagcaacagcatttctaggatatgttttaccgtgagggcaaatatcattttggggggccacagtgattactaacct
+    T_Capricornis         attatggccacagcatttttaggatatgtcttaccatggggacagatatcattttggggcgctacagttattactaacct
+    T_acuta               attatagcaacagcatttcttggatacgtcttgccttggggtcaaatatcattttgaggtgctacagttattactaacct
+    T_alcocki             attatagcaacagcatttttaggatacgttttaccctgaggacaaatatcattttgaggggcaacagttattactaacct
+    T_arcuata             attatagcaacagcatttttgggatacgttttaccctgaggtcaaatatcattttgaggtgccacagttattactaacct
+    T_paradussumieri      attatagccacagcatttctaggatatgtcttaccatgaggacaaatatcattttgaggtgctacagttattactaactt
+    T_polita              attatagcaacagcattcctaggatatgtattaccttgaggtcaaatatcattttgaggagccacagttattactaacct
+    T_rosea               attatagcaacagcattcttaggatatgttttaccatgggggcaaatatcattctgaggtgccacagttattacaaacct
+
+    G_borealis            tttttctgcaatcccacttattggaacagacttagtacagtgaatctgaggtggattttccgttgacaatgccactttaa
+    T_Capricornis         attctcagcaatccctcttattggaacagacttagtacaatgaatttgagggggattttctgttgataacgcaacactta
+    T_acuta               tttctcagcaattcctcttattggaacagacttggtacaatgaatctgagggggattttctgttgacaatgcaacattaa
+    T_alcocki             cttttcagcaatcccccttattggaacagatctagtacaatgaatttgagggggcttttccgttgataatgcaacgttga
+    T_arcuata             tttctcagcaattcctcttattgggacagacctagtacagtgaatttgaggaggattttctgttgacaacgcaacattaa
+    T_paradussumieri      attctcagcaatccctcttattggaacagacttagtacaatggatttgagggggattttctgttgataacgcaacactaa
+    T_polita              gttctcagcaattccacttattggtacagatttagtacaatgaatttgagggggattttcagttgataatgcaacattaa
+    T_rosea               attctcagcaattcctcttattggaacagacctagtgcaatgaatttgaggaggattctccgtcgacaacgcaacactaa
+
+    G_borealis            cacgattcttttctttccattttatcttaccttttattgcagcagctttttctataatccatattctatttcttcatcaa
+    T_Capricornis         cccgatttttttcatttcactttattttaccctttattgcggctgctttttctataattcacattttatttctccatcaa
+    T_acuta               cccgatttttttcattccactttattttaccatttattgcagcagcaatatctataattcacattttatttctccaccaa
+    T_alcocki             ctcgatttttttcatttcacttcattctaccatttattgcagcagctttttccataatccatattttgtttctccatcaa
+    T_arcuata             ctcgatttttttcatttcactttattttaccatttattgcagcagccttctccataatccatattttatttcttcaccaa
+    T_paradussumieri      cccggtttttttcattccactttattttaccctttattgcagctgctttttctatgattcatattttgtttctccaccaa
+    T_polita              ctcgatttttttcttttcatttcattttaccatttattgcagccgctttttctataattcatattttatttctacatcaa
+    T_rosea               ctcgatttttttcatttcatttcattttaccgtttattgcagcggctttttctataattcacattttatttcttcaccag
+
+    G_borealis            gcaggagctaacaacccattaggcatttcaaggcaaatagacaaagtgccgttccacccatattttacatttaaagacat
+    T_Capricornis         aaaggcgcaaataatcctttaggaatttcaaggcaaatagataaagtaccatttcacccttattttacattcaaagatat
+    T_acuta               gcaggagcaaataatcctctaggaatctcaagacaaatagataaagttccattccacccttattttacattcaaagacat
+    T_alcocki             gcaggagcaaataaccctttaggaatttcaaggcaaatagataaagtaccattccatccttattttacatttaaagatat
+    T_arcuata             gcaggcgcaaataatcctctaggtatttcaagacaaatggataaagttccattccacccgtactttacatttaaagacat
+    T_paradussumieri      aaaggcgcaaataatcctttaggaatttcaaggcaaatagataaagtaccatttcatccttattttacattcaaagatat
+    T_polita              gcaggagcaaacaatccaataggaatttcaagacagatagacaaagtaccttttcacccatattttacatttaaagacat
+    T_rosea               gcaggagcaaacaatcctttaggaatttcaagacaaatagataaagtaccctttcatccatactttacatttaaagacat
+
+    G_borealis            tgtaggatttgttgttatgctaacagggttaatctttttaactttattagccccctacttcttaggggatcctgacaatt
+    T_Capricornis         tgttggatttattgttatacttacagctctaatctttttaactcttttagctccatatttcttaggtgatccagataatt
+    T_acuta               cgttggtttcattgttatatttacagccctaatttttttaacccttttagccccatattttttaggagatcctgataatt
+    T_alcocki             tgttggctttattgttatacttacagctctaatctttttaagtcttttagccccatactttttaggtgaccctgataatt
+    T_arcuata             tgttggctttattgttatacttacagcactaattttcttgaccttgttagctccatactttttaggagatcctgacaact
+    T_paradussumieri      tgttggatttattgttatacttacagctttaatctttttaactcttttagccccctatttcttaggtgacccagataatt
+    T_polita              cgtaggctttattgttatactcacagctttaattttcttaacccttttagctccgtatttcttaggagatccagataatt
+    T_rosea               tgttggttttatcgttatacttacagctttaatttttctgactcttttagctccatacttcttaggtgatcctgataatt
+
+    G_borealis            ttatcccggctaatccgttagttacaccacctcacattcaaccagaatgatactttttatttgcttacgccatcttacga
+    T_Capricornis         ttattccagcaaatcctttggtgacccctcctcatattcaacctgaatggtacttcctttttgcttacgctattttacga
+    T_acuta               ttattccggccaatcccttagtaacgccgcctcacatccagcctgaatgatattttctttttgcttacgctattttacga
+    T_alcocki             ttattccagctaaccctctagttacaccccctcacattcaacctgaatgatattttctttttgcctacgctattttacga
+    T_arcuata             tcattccagctaaccctttggtgacacctcctcacattcaacctgaatgatatttcctcttcgcttacgctattttacga
+    T_paradussumieri      ttatcccggcaaaccctttagttactccccctcacattcaacctgaatggtacttcctatttgcctacgctattttacga
+    T_polita              ttatcccggccaacccattagtcactccccctcatattcaaccagaatgatatttcctatttgcctatgctattttacga
+    T_rosea               ttatccctgccaaccctctagttacaccccctcacattcagcctgaatgatatttcctcttcgcttacgccatcctacga
+
+    G_borealis            tctattcctaacaaacttggtggagtaatagctctagccgcttctgtagctatcttaataattttaccatttacacacac
+    T_Capricornis         tctattcctaacaaattaggaggggtaatagctctagtagcctccgtagctattttaataattttaccattcactcatac
+    T_acuta               tctattcctaataaactgggaggagtaatagctttagtagcctccgtagccattttaataattttaccatttactcacac
+    T_alcocki             tctattcctaacaaactagggggagtaatagctttagtagcctctgtagctattttaataattttaccatttactcacac
+    T_arcuata             tctattcctaataaattaggaggagttatagctctagtagcctctgtagccatcttaataatcttaccatttactcacac
+    T_paradussumieri      tctattcctaacaaactaggaggagtaatagctctagtagcctctgtagctattctaataattttaccattcactcatac
+    T_polita              tctattcctaataaactaggaggtgtaatggcattagtagcttctgtagctatcctaataattcttccattcactcacac
+    T_rosea               tctattcctaataagctaggaggagttatagctttagtagcttcagtagctatcttaataatcttaccatttacccacac
+
+    G_borealis            ctcaaaattccaaagattggcattttaccctgttaaccaaatcctgttttgaacttttgtagtaatcgttatacttttaa
+    T_Capricornis         ctcaaaattccaaagattagcgttttaccctatcaaccaaactttattttgaactttcgttacaattgttatacttttaa
+    T_acuta               atcaaaattccaaaggctagcattttaccccttaaaccaaactttattctggacttttgtaacaatcgttatacttttaa
+    T_alcocki             atcgaaatttcaaagattagcattttaccctgttaaccaaaccttattttgaacttttgtaacaatcgttatacttttaa
+    T_arcuata             gtcaaaattccaaagattagcattttaccctctaaaccaaacattattttgaacctttgtcacaatcgttatacttttaa
+    T_paradussumieri      ctcaaaattccaaagactggcattttaccctatcaaccagactttattttggactttcgttacaattgttatacttttaa
+    T_polita              atcaaaattccaaagactagccttttaccctctaaatcaaactttattctgaacctttgttacaattgtaatacttttaa
+    T_rosea               atcaaaatttcaaagattagcattttaccctatcaatcagactttattctgaactttcgtaacaattgttatactcttaa
+
+    G_borealis            catgaatcggagctcgaccagttgaagatccatatgttcttacagggcaaatcctcacaattttatatttctcattttac
+    T_Capricornis         catgaatcggcgctcgaccggtagaagatccttacatcattacaggccaaattctcacagtcttatatttttccttttat
+    T_acuta               catgaattggggcccgaccagtagaagatccctacattattacagggcaaatacttacaatcctatatttttccttttat
+    T_alcocki             catgaattggagctcgaccagtagaagatccttatatcaccacaggccaaatccttacaattttatattttgccttttat
+    T_arcuata             catgaattggagcccgaccagtagaagatccttatattattacagggcaaattctaacaattttatacttctctttttac
+    T_paradussumieri      catgaattggcgctcgaccagtagaagacccttatatcattacaggtcaaattctaacagtcttgtatttttctttttat
+    T_polita              catgaattggagctcgaccggtagaggatccttacattattacaggccaagttcttacaattttatacttttctttttat
+    T_rosea               catgaattggagctcgaccggtagaagacccttatattcttacaggacaaatcttaacagttctatacttctccttttac
+
+    G_borealis            attattaacccattaattcttatctgatgagataacatacttaag-----------------------------------
+    T_Capricornis         attgtcaaccctcttttactagtatgatgagataatatactaaaa-----------------------------------
+    T_acuta               atcattaaccctttattacttatttgatgagataacatactaaaa-----------------------------------
+    T_alcocki             attattaaccctcttctactaatttgatgagataatatactaaaa-----------------------------------
+    T_arcuata             attatcaatcccctattattaatctgatgagataatatactaaaa-----------------------------------
+    T_paradussumieri      attattaaccctcttttactagtatgatgagataatatactaaaatgattatttagtttaaaccaaaacagatgttttga
+    T_polita              gttattaaccctttaatgttaatctgatgagataatatactaaaatgattatttagtttaaaacaaaacagatgttttga
+    T_rosea               attctaaatcccctattattaatttgatgagataatatactaaaa-----------------------------------
+
+    G_borealis            -------------------atgcaacgatgattattttctacaaatcataaagacattggtacattatattttatctttg
+    T_Capricornis         -------------------atgcaacgatgattattttcaacaaatcataaagatattggtacattatattttatttttg
+    T_acuta               -------------cttattatgcaacgatgattattttcaacaaatcataaagatattggtacattatattttatttttg
+    T_alcocki             -------------------atgcaacgatgattattttcaacaaatcataaagatattggtacattatattttatttttg
+    T_arcuata             -------------------atgcaacgatggttattttcaacaaatcataaagatattggtactttatattttatcttcg
+    T_paradussumieri      aaacataaaataa------atgcaacgatgattattttcaacaaatcataaagatattggtacattatattttatttttg
+    T_polita              aaacatgagataa------atgcaacgatgattattttcaacaaatcataaagatattggtacattatattttatctttg
+    T_rosea               -------------------atgcaacgatgattattttcaacaaatcataaagatattggtacgctatattttatcttcg
+
+    G_borealis            gtgcttgagctggaatagtaggtacatcactaagattaattattcgagcagaattaagtcaaccaggaagacttattggt
+    T_Capricornis         gagcttgagcaggaatagtaggtacatccttaagattaattattcgagcagaattaagtcaacctggtagacttattgga
+    T_acuta               gggcctgagctggaatagtaggtacatccttaagactaattattcgagcagagttaagtcaaccaggtagactcattgga
+    T_alcocki             gagcttgagcaggaatagtaggaacatccctaagactaattattcgagcagaattaagccaaccaggtagacttattgga
+    T_arcuata             gggcctgagctgggatagtaggtacatcattaagactaattatccgggcagaactaagtcagccaggtagacttattgga
+    T_paradussumieri      gagcttgagcaggaatagtaggtacatccttaagattaattattcgagcagaattaagtcaacctggtagacttattgga
+    T_polita              gagcttgagctggaatagtaggaacatctttaagattaattattcgagctgaattgagtcaacccggtagacttattgga
+    T_rosea               gagcctgagctgggatagtaggcacatccttaagattaattattcgagcagaattaagtcagccaggaagacttattgga
+
+    G_borealis            aatgaccaaatttataatgtagtagttaccgctcacgcttttgtaataattttctttatagttataccaattataattgg
+    T_Capricornis         aacgatcaaatctacaacgtagtggtaacagcccatgcctttgtaataattttctttatagttatgccaattataattgg
+    T_acuta               aatgaccaaatttacaacgtagttgtaacagcccacgctttcgtaataattttttttatagtaataccaattatgattgg
+    T_alcocki             aatgaccagatttacaatgtagtagtaacagctcacgcttttgtaataattttctttatagttatacccatcataattgg
+    T_arcuata             aacgatcaaatctacaatgttgtagtaactgcccatgcctttgtaataattttctttatagttataccaattataattgg
+    T_paradussumieri      aacgatcaaatctacaatgtagtagtaacagcccatgcctttgtaataattttctttatagttatgcctattataattgg
+    T_polita              aatgaccaaatctacaacgtagtagtaacagctcatgcttttgtaataatttttttcatggttataccaattataattgg
+    T_rosea               aacgaccaaatctacaatgtagtagtaacagctcatgccttcgtaataatcttctttatagttataccaattataattgg
+
+    G_borealis            aggattcggaaactgacttgttccccttatattaggggcccctgacatggcatttccgcgtataaataacataagatttt
+    T_Capricornis         aggatttggaaattgattagtccctcttatactaggagcaccagatatagctttcccacgtataaacaatataaggtttt
+    T_acuta               gggatttgggaactgattagtccctcttatactaggagcacctgatatagcttttccacgtataaataatataagatttt
+    T_alcocki             aggattcggaaattgactagttcctcttatattaggagctcctgatatagcttttccccgtataaataacataagatttt
+    T_arcuata             aggatttggaaactgattagttcctcttatactaggagctcctgatatagcttttccacgtataaacaacataagatttt
+    T_paradussumieri      aggatttggaaattgattagtccctcttatactaggagcaccagacatagctttcccacgtataaacaatataagatttt
+    T_polita              aggatttggaaactgactagttccacttatattaggagcacctgatatagccttcccgcgtataaacaatataagattct
+    T_rosea               aggatttggaaactgattagttcctcttatattaggagctcctgatatagctttcccgcgtataaataacatgagatttt
+
+    G_borealis            gactgcttcctccctctctttccctgttgttaactagaagaatagtagaaagaggtgtaggtacaggatgaacagtttac
+    T_Capricornis         gactccttcctccttcgctttctctccttcttacaagaaggatagtagaaagaggtgtaggtacaggatgaacggtttat
+    T_acuta               gacttcttcctccatctctttctttacttctcacaagaagtatagtagaaagaggagtgggcacaggatgaacagtttat
+    T_alcocki             ggttacttcctccatccctctctcttcttcttacaagaagtatagtagaaagaggtgtaggaacaggatgaacagtttat
+    T_arcuata             gactacttccaccttctctttcactacttcttacaagaagtatagtagaaagaggtgtgggtacaggatgaacagtatac
+    T_paradussumieri      ggcttcttcctccctcgctttctcttcttcttacaagaagaatagtagaaagaggtgtaggtacaggatgaacagtttat
+    T_polita              gacttcttcccccttcactttctcttcttcttacaagaagtatagtagaaagaggtgtaggaacaggatgaacagtttac
+    T_rosea               gactccttcctccctccctttcattactccttacgagaagaatggtagaaagaggtgtaggtacaggatgaacagtttat
+
+    G_borealis            ccaccccttgctgccgccattgcacacgcaggagcatcagtagatttaggtattttttccctccacttagcaggtgtctc
+    T_Capricornis         cctccattagctgctgctattgcccacgcaggagcgtccgtagatctaggaattttttctcttcacttagcaggtgtttc
+    T_acuta               cctcccctagccgctgctatcgcccatgcaggtgcctcagtagacctgggaattttttcacttcacttagcaggtgtttc
+    T_alcocki             ccacctttagctgctgctattgctcacgcaggagcatcagtagatctaggaattttttcactccatttagcaggtgtttc
+    T_arcuata             cctcccttagctgctgctatcgctcacgcaggagcatcagtagatctaggaattttctctctccacttagcaggtgtttc
+    T_paradussumieri      cctcccttagctgctgctattgcccacgcaggagcatctgtagatctaggaattttttctcttcacttagcaggtgtttc
+    T_polita              cctcccttatccgctgctattgctcacgctggagcgtcagttgatctaggaattttttctcttcacttagcaggtgtctc
+    T_rosea               cctcctctagccgctgctattgcccacgcaggagcatcagtagatcttggtattttttctcttcatttagcaggtgtctc
+
+    G_borealis            atcaattttaggagcagtaaatttcataacaactgtgattaatatacgatcttacggtataacaatagaccaaatacctt
+    T_Capricornis         atcaattttaggagccgtaaattttataacaactgtaattaatatacggtcttatggaatgacaatagaccaaatgcctt
+    T_acuta               gtcaattttaggagctgtaaactttataacaactgtaattaacatacgatcatatggaataacaatagaccaaatgccac
+    T_alcocki             atcaattctaggagccgtaaattttataacaactgtaattaatatacgatcgtatggaataacaatggaccaaataccct
+    T_arcuata             atcaattctaggagcagtaaattttataacaaccgtaattaatatacggtcttatggaataacaatggatcaaatacctt
+    T_paradussumieri      atcaattttaggagccgtaaatttcataacaactgtaattaacatgcgatcttatggaataacaatagaccaaatgcctt
+    T_polita              atcaattttaggagctgtaaactttataacaactgtaattaatatacgatcatacggaataacaatggaccaaataccat
+    T_rosea               atcaattttaggagctgtaaactttataacaaccgtaattaacatgcgatcttatggaataacaatagaccaaatacctt
+
+    G_borealis            tatttgtctgagccgtatttattactgctattttactactcctatctcttccggtcttagcaggagctattactatactt
+    T_Capricornis         tatttgtctgagcagtatttatcactgccattctccttcttttatctctcccagttctagcaggagccattacaatactc
+    T_acuta               tatttgtctgagcagtatttattactgctatccttcttcttctatctcttccagttttagcaggagctattacaatactt
+    T_alcocki             tatttgtttgagcagtattcattactgctatcctcctacttttatcactcccagtcctagcaggagctattacaatactc
+    T_arcuata             tatttgtatgggcagtatttattactgcaattcttctacttttatctctcccggttttagcaggagctattacaatactc
+    T_paradussumieri      tatttgtctgagcagtatttatcactgctatcctccttcttttatctctcccagttctagcaggagctattacgatactc
+    T_polita              tgtttgtatgagcagtcttcattactgctattcttcttcttttatctttaccagttctagcgggagctattacaatactt
+    T_rosea               tatttgtctgagcagtatttattactgccatcctacttcttctttccctcccagttctagcaggagctattacaatgctt
+
+    G_borealis            cttactgaccgaaacttaaatacttctttctttgacccagcaggaggaggtgatccagttttataccaacatttattctg
+    T_Capricornis         ctaaccgaccgtaatctcaatacttccttctttgaccctgcaggaggaggggatcccgttctttaccaacatcttttctg
+    T_acuta               ttaactgatcgtaatcttaatacttcattctttgatcccgcgggtgggggagaccccgttctctatcaacacctattctg
+    T_alcocki             ttaaccgaccgtaatcttaatacttccttttttgatcctgcaggtggaggagatcctattctctatcaacacctcttctg
+    T_arcuata             ttaaccgaccgtaacctcaacacttccttctttgaccctgccggaggaggagaccccgttctctatcaacatctattttg
+    T_paradussumieri      ttaaccgaccgtaatctaaatacttccttctttgatcctgcaggcggaggagacccagtcctttaccaacacctcttctg
+    T_polita              ttaaccgaccgtaaccttaatacttccttctttgaccctgctggaggaggtgatccagtcctataccaacatttattctg
+    T_rosea               ttaaccgaccgtaatcttaatacttcgttcttcgatcctgcaggagggggagaccccgttttataccaacatctattttg
+
+    G_borealis            attttttggtcaccctgaagtatatattttaattctcccagctttcggtataatttcccatattgttagacaagaatcag
+    T_Capricornis         atttttcggacatcctgaagtttatattttaattttaccagcattcggtataatttcccacattgttagacaagaatcag
+    T_acuta               gttctttggacaccccgaagtttatattttaattttaccagcattcggcataatttcccatattgtaagacaagaatcag
+    T_alcocki             attttttgggcatcctgaagtttatattttaattctaccagcatttggtataatttctcatattgttagacaagagtcag
+    T_arcuata             attctttgggcaccctgaagtatatattttaattttaccggcatttggtataatctcccacattgtaagacaagaatcag
+    T_paradussumieri      attttttggacatcctgaagtttatattttgattttaccagcattcggtataatttcccatattgttagacaagaatcgg
+    T_polita              attttttggtcatcctgaagtatatattttaattttaccggcctttggtataatttcacatattgtaagacaggaatcag
+    T_rosea               attttttggtcaccctgaagtttatattttaatcttaccagcatttggtataatttctcatattgttagacaagagtcag
+
+    G_borealis            gaaaaaaagaatctttcggaactctaggtataatttacgccatgctagctattggaattctaggatttgtagtttgagct
+    T_Capricornis         ggaaaaaagaatcatttggtacattaggtataatttatgctatattagccattgggatcttaggatttgtagtgtgagca
+    T_acuta               ggaaaaaagaatcgttcgggacactaggtataatttacgctatattagctattggaatcttaggatttgtagtatgagcc
+    T_alcocki             gaaagaaggaatcatttggtactttaggtataatctacgctatattggctattggaattttaggattcgtagtttgagct
+    T_arcuata             ggaaaaaagaatcattcggtacattaggtatgatttatgctatactagctattggaatcttaggatttgtagtatgagca
+    T_paradussumieri      gaaagaaagaatcatttggtacattaggtataatttatgctatgttggccattggaatcttaggatttgtagtatgagca
+    T_polita              gaaaaaaagaatcattcggtactttaggtataatctacgccatgttagctattggaattctaggatttgtagtatgagca
+    T_rosea               ggaaaaaagaatcatttggtaccttaggtataatttacgctatactagctattggaatcttaggatttgtagtttgagca
+
+    G_borealis            caccatatgtttacagttggaatagacgttgatactcgagcttactttacatcagcaacaataattattgccattccaac
+    T_Capricornis         caccatatatttacagtaggaatggacgttgacacccgagcatactttacttctgctactataatcattgccattccaac
+    T_acuta               caccatatatttacagtaggtatggatgtagatacccgagcatattttacttcagcaacaataattattgccatccccac
+    T_alcocki             caccatatattcacagtaggtatggacgttgatacacgagcctactttacttccgcaactataattattgctattccaac
+    T_arcuata             caccatatattcacggtaggtatagacgttgatactcgagcatattttacctctgcgactataattattgccatcccaac
+    T_paradussumieri      caccacatgtttacagtaggaatagacgttgatacccgagcatactttacttctgctactataattattgccattccaac
+    T_polita              caccacatatttacagtaggtatagacgtcgatactcgagcatattttacttccgcaactataattattgctattcccac
+    T_rosea               caccatatatttacggtaggaatagacgttgatactcgagcatattttacctctgcaactataattattgccatccccac
+
+    G_borealis            tggaattaaaatttttaggtgattaagaacacttcatggttcacaattaaatttttctccatctctaatatgagccttag
+    T_Capricornis         cggaattaaaatttttagatgattaagaacacttcacggaacacaactaaacttttccccatcattaatgtgagctcttg
+    T_acuta               aggaattaaaatttttagatgactaagaacactccacggaacacagctaaacttttctccttcattaatatgagctcttg
+    T_alcocki             tggaattaaaatttttagatggttaagaacacttcacggttcacagttaaacttttctccctcgttaatatgagcccttg
+    T_arcuata             tggaattaaaattttcagatgactaagaacacttcacggcacacagttaaacttctccccatcattaatatgggccctag
+    T_paradussumieri      cggaattaaaattttcagatgattaagaacacttcacggaacacaactaaacttttctccctcattaatgtgagctcttg
+    T_polita              tggaattaagatttttagatgattaaggacacttcatggtacacagctaaatttctccccctcattactatgagccctag
+    T_rosea               cggaatcaaaatttttagatgactaagaacacttcatggaacacaattaaacttttctccttcactaatgtgagctctag
+
+    G_borealis            gatttatttttcttttcactgttggtggcttaacaggagtagttcttgcaaactcttctattgatgtaattctccacgac
+    T_Capricornis         gatttattttcctatttactgtaggtgggttaaccggagtagttttagcaaactcctcaattgacgtaattcttcatgat
+    T_acuta               gttttattttcttattcactgtaggtggattgaccggagtagttttagcaaattcctcaattgatgtaattctccatgac
+    T_alcocki             gatttattttcctattcaccgtaggtggtttaactggagtagttttagcaaactcctcaattgatgtgatcctccacgac
+    T_arcuata             gatttatttttctgtttactgtaggtgggttaactggagtagttttagcaaactcttcaattgatgttattcttcacgat
+    T_paradussumieri      gatttatttttctatttaccgtgggtggactaaccggagtagttttagcaaactcttcaattgacgtaatccttcatgat
+    T_polita              gttttattttcctcttcactgtaggaggactgacaggagtagtattagcaaattcttcgattgatgtaattcttcacgac
+    T_rosea               gctttattttcctctttaccgtaggtggactaaccggagtagtcttagcaaactcctcaattgatgtaatccttcacgat
+
+    G_borealis            acatactatgtcgtagcccatttccattacgttctgtcaataggagcggtattcggaatttttgcaggtattgctcactg
+    T_Capricornis         acatattatgtagtagcccatttccattacgttctatctataggggcagtattcggaatttttgctggtattacacactg
+    T_acuta               acatactacgttgtagcacatttccactacgttctatctataggagccgtcttcggaatttttgccggtatcacacactg
+    T_alcocki             acatactatgtagtagcccatttccattatgttttatcaataggagcagtattcgggatttttgctggtattacacactg
+    T_arcuata             acatactatgtagtagctcatttccattatgttttatccataggagcagtatttggaattttcgctggtattacacactg
+    T_paradussumieri      acatattatgtagtagcccatttccattacgttctatctataggagcagtattcgggatttttgctggtattacacactg
+    T_polita              acctattatgtagtagctcatttccattatgttttatctataggagcagtatttgggatttttgcaggaattacacattg
+    T_rosea               acatactatgttgtagcccacttccactatgttttatccataggagccgtattcggaatttttgctggtattacacactg
+
+    G_borealis            attctctctcataacaggtctttctctaaaccccaaatgacttaaaatacactttttagttacattcatcggggttaatt
+    T_Capricornis         attttccttaataacaggactttcattaaatcctaaatgactaaaaatacattttacagtaacatttattggggttaaca
+    T_acuta               attttccttaataacaggattttccttaaatcctaaatgactaaaaatacattttacagtaacatttattggagtaaata
+    T_alcocki             attttccttaataacaggactttcattaaattctaaatgactaaaaatacattttacagcaacatttattggagtaaata
+    T_arcuata             attttccctgatgacaggactttcattaaatcctaaatgactaaaaatacattttacagtaacattcattggagtaaata
+    T_paradussumieri      attttccttaataacgggactctcattaaaccctaaatgactaaaaatacattttacagtaacatttattggagttaaca
+    T_polita              attctctctaataacaggactctcattaaaccctaaatggttaaaaatacactttacagtaacatttattggagtaaata
+    T_rosea               attctctttaataaccggactatcattaaatcctaaatgactaaaaatacattttacagttacatttattggggttaata
+
+    G_borealis            taaccttcttccctcaacatttcctaggacttaatggtataccgcggcgatactctgactatccagatgcatacgcaaca
+    T_Capricornis         taacattctttcctcaacatttcttaggattaaatggtataccacgacgttattccgactaccctgatgcctatgcaaca
+    T_acuta               taacctttttccctcaacatttcctaggacttaatggtataccacgacgatattcagattaccctgatgcttacgctaca
+    T_alcocki             taacattttttcctcaacacttcctaggactgaatggtataccacgacgttactctgattatcctgacgcttatgcaaca
+    T_arcuata             taacattttttccccaacacttcttaggactaaacggtataccacgacgatactctgactatcccgacgcttacgcgaca
+    T_paradussumieri      taacattctttcctcaacatttcttaggactaaatggtatgccacgacgttattccgattaccctgatgcctatgcaaca
+    T_polita              taacttttttcccacaacacttcctaggactaaatggtataccacgacgttattctgattatcctgatgcctatgctaca
+    T_rosea               taacattctttcctcagcatttcctaggactaaacggtataccacgacgttactctgactaccctgacgcttacgcaaca
+
+    G_borealis            tgaaatattgtctcttcactaggaagaataatttcatttgttgccgcacttggtttccttctgattacatgagaagcttt
+    T_Capricornis         tgaaatattgtatcctctttagggtctataatttcatttgtagctgcactgggtttcttaattattacttgagaagcttt
+    T_acuta               tgaaatatcgtttcttccttaggttcaataatttcatttgtagcagcactaggcttcttaattattacttgagaagcttt
+    T_alcocki             tgaaatatcgtttcctctttagggtccataatttcatttgtagccgcactaggcttccttattattacgtgagaagcttt
+    T_arcuata             tgaaatattgtttcttcgttaggatcaataatttcatttgtagcagcactaggattccttattattacctgggaagcttt
+    T_paradussumieri      tgaaatattgtatcctccttaggatctataatttcgtttgtagccgcacttggtttcctgattattacttgagaagcttt
+    T_polita              tgaaatattgtatcttctttaggatcaataatttcatttgtagcggcattaggcttcctcattattacgtgagaagcctt
+    T_rosea               tgaaacatcgtttcttccttaggatcaataatttcatttatagcagcacttggattccttattattacctgagaagcttt
+
+    G_borealis            cacagctaaccgacaagtaatcttcagccctttcctaccatcttctattgaatgagaacacccttacccgcccgctgacc
+    T_Capricornis         tatatctaaccgggcagctatttttagtcctttcctctcgtcctcaatcgaatgaaagcactcttaccccccagcagatc
+    T_acuta               cacatctaaccgaccggctatttatagaccattcctttcatcttcaattgaatgaaagcactcttaccccccagcagatc
+    T_alcocki             tgtatctaaccggccaaccgtttatagtccatacctttcatcttcaattgaatgaaaacactcttacccccctgcagatc
+    T_arcuata             tatatctaaccgagcatctgtttttagtccattcctatcctcttctattgaatgaaaacactcttaccccccggcagatc
+    T_paradussumieri      tatatctaaccggacagccattttcagcccattcctctcatcctcaatcgaatgaaagcactcttatcccccagcagatc
+    T_polita              tgtatctaatcgaccagctatttttagtccattcctttcatcctctattgaatgaaagcatttttatcctccggcagacc
+    T_rosea               catatctaaccggccagctattttcagcccattcctttcatcttctattgaatgaaaacactcttaccccccagcagatc
+
+    G_borealis            attcatatatggaa------------------------atggcaacatgagcatacttaggtctccaagacagagcttcc
+    T_Capricornis         attcttacatggaa------------------------atggcaacatgagcatatttaggtttccaagatagtgcttca
+    T_acuta               attcctatatagaa------------------------atggcaacatgagcatatttaagtctccaagataggacctca
+    T_alcocki             actcttatatagaa------------------------atggcaacatgagcatatataaatctccaagatagtgcttca
+    T_arcuata             actcttatatagaa------------------------atggcaacatgagcatacttagccttccaggatagagcttca
+    T_paradussumieri      attcttatatagaaattccactaattactaacttctaaatggcaacatgagcatatttaggtttccaagacagtgcctca
+    T_polita              attcttatatagaaattcctctaattactaacttctaaatggcaacatgagcatacctaggtctccaagatagtgcttct
+    T_rosea               actcttatatagaa------------------------atggcaacatgagcatatttaggtctccaagatagtgcttca
+
+    G_borealis            ccccttatagaacaactaatctttttccatgatcatattataactgttctagttctaatcgttactttcgtaggatatat
+    T_Capricornis         cccttaatagagcaattaatttttttccatgaccacattataattgtcttagtgctaattgtagcttttgtgggttacat
+    T_acuta               cctcttatagaacaattaatcttttttcatgaccatattataattgtccttgctcttattgtagctttcgtaggatatat
+    T_alcocki             cctcttatagaacaattaattttctttcatgattatattataattgtcttagtattaattgtagcctttgtaggatacat
+    T_arcuata             cctcttatagaacaattaatcttttttcatgatcatattataattgtccttatattaattgtagcttttgtaggatatat
+    T_paradussumieri      cccttaatagagcagttaatttttttccatgaccacattataattgtcttagtgttaattgtagcttttgtaggctacat
+    T_polita              cctcttatagagcaattaatttttttccacgatcatattataattgtactagtattaattgtagcctttgtgggatatat
+    T_rosea               ccccttatagaacagttaattttttttcatgaccacattataattgtccttgtattaattgtagctttcgtaggatatat
+
+    G_borealis            tatatccacattattttttaactcttttatcaatcgatacatgttagaaaatcagccaattgaagtaatttgaacatcta
+    T_Capricornis         aatatcgactttattcttcaattcctttattaatcgctatatgttagagaatcaacccattgaagtaatttgaacctcta
+    T_acuta               aatgtcaaccttattttttaattcttttattaatcgttacatactagaaaatcaacctattgaagtaatctgaacttcta
+    T_alcocki             tatatcatccttattttttaactcctttattaatcgttatatactagaaaatcagcctattgaagtaatctgaacttcta
+    T_arcuata             aatatcaaccctattctttaactcctttatcaatcgctatatgttagaaaatcaacccattgaagtaatctgaacctccg
+    T_paradussumieri      aatatcaaccttattcttcaattcctttattaaccgctatatattagaaaatcaacctattgaagtaatttgaacctcta
+    T_polita              aatatcgactttatttttcaactcattcattaatcgttacatattagaaaatcagcccattgaagtaatttgaacctcta
+    T_rosea               aatgtcaaccttattttttaattccttcattaatcgctatatactagaaaatcaacctattgaagtaatctgaacttcta
+
+    G_borealis            ttccagctgttattctaatcttcattgccttaccctccctccagttactttatcttcttgatgaagtaaactccccatct
+    T_Capricornis         ttccagctatcattttaatttttattgctctaccttctcttcgattactataccttttagatgaagtaaattccccttct
+    T_acuta               ttccagcccttattctaatttttattgccctgccatcccttcgactactctacctcctagacgaagtaaattcaccttcc
+    T_alcocki             ttccagctgttattttaatttttattgctctaccatcccttcgactactttatcttttagatgaagtaaattccccttct
+    T_arcuata             ttccagctattatcttaatttttattgccttaccctctcttcgcttactttaccttttagatgaagttaactccccatcc
+    T_paradussumieri      ttccagctatcattttaatttttattgctttaccctcgcttcgattactttaccttttggatgaagtaaattccccttct
+    T_polita              ttccagctcttattttaatttttattgcactaccgtcactacgattactttaccttttagatgaagttaactctccatct
+    T_rosea               ttccagctctcattttaatctttattgcattaccatctcttcgattactttaccttctagatgaagtaaactccccctcc
+
+    G_borealis            cttactcttaaaaccattggacatcaatgatactgaagatatgaatactcagatttcttacatctagaatttgactccta
+    T_Capricornis         cttactcttaaaactattggacaccaatgatattgaagatacgagtattctgactttttacacttggaatttgattctta
+    T_acuta               ctcacccttaaaaccattgggcaccaatgatattgaaggtatgagtattctgattttttacatttagaatttgattctta
+    T_alcocki             ctcactcttaaaaccatcggccaccagtggtactgaagatatgaatattctgatttcttacatctagaatttgactctta
+    T_arcuata             ctcacccttaaaactatcgggcatcaatgatactgaagatacgagtattccgatttcttacatttagaatttgattctta
+    T_paradussumieri      cttactcttaaaaccattggacatcagtgatattgaagatatgagtattctgactttttacacttagagtttgattctta
+    T_polita              cttacccttaaaactatcgggcatcagtgatactgaagatatgaatactccgatttcttacacttagagtttgattccta
+    T_rosea               cttacccttaaaaccatcggccaccagtgatactgaagatatgaatattctgactttctacatttagagtttgactctta
+
+    G_borealis            tataactccaacaaatgagctcagggactctagatttcgattactagatgttgataatcgaacagttcttcctataaaca
+    T_Capricornis         tataacaccaagtaacgaactaagagaatctggattccgtttattagatgttgataatcgaaccgttcttcctataaaca
+    T_acuta               tatagtaccgactaacgaattagaaacctcagggtttcgtcttctagatgtcgataaccgaacagtgcttcctataaaca
+    T_alcocki             cataacacctgctaatgaactaagagaatccggattccgtttattagatgttgataatcgaacagtgctccctataaata
+    T_arcuata             tataacaccatctaacgaattatcggaatctggatttcgtctcttagatgttgacaatcggactgttcttcctataaata
+    T_paradussumieri      tataacgccaagtaacgaactaagagaatctggattccgtctattagatgttgataatcggaccgttcttcctataaaca
+    T_polita              cataactcccactaacgaattaagagattcgggattccgactattagatgtagataatcggactgtactccctataaata
+    T_rosea               tataatgccctctaatgaattaagagagtcaggattccgtttactagatgttgacaaccggaccgttcttcctataaaca
+
+    G_borealis            ctcaaatccgagtcttaattagagcagcagatgttattcactcatgaaccgtcccatcccttggtgtaaaagcagacgct
+    T_Capricornis         cccaaattcgaattttaatcagagcagcagacgttattcactcctgaacagtaccttccttaggtgttaaagccgacgct
+    T_acuta               cccaaattcgaatcttaattagagcagcagacgttatccactcatggacggtaccatctttaggtgttaaagctgacgcc
+    T_alcocki             cccaaattcgagttttaattagagcagcagatgttattcactcttgaacagtaccttctttaggtgttaaagccgatgct
+    T_arcuata             ctcaaatccgagtcttaattagagcagcagacgttatccactcttgaacagtaccatcattaggtgttaaagctgacgcc
+    T_paradussumieri      cccaaattcgaattttaatcagagcagcagacgttattcactcctgaacagtaccttccttgggtgttaaagccgacgct
+    T_polita              ctcaagttcgtattttaattagagcggctgatgttattcactcatgaacagtaccatctttaggagttaaagccgatgct
+    T_rosea               ctcaaattcgaatcctaattagagcagcagatgttattcactcatgaacggtaccttctctgggtgttaaagccgacgct
+
+    G_borealis            attcctggacgtctaaaccagacaagatttctagttagccgcccaggattattttatggccaatgttcagaaatttgtgg
+    T_Capricornis         attccaggacgacttaatcaaacgaggtttttaattaatcaacctgggttattttacggacagtgttcagaaatctgtgg
+    T_acuta               atccctggacgactaaatcaaacgagatttttaattaatcgccctggattatcttacggtcaatgttcagaaatctgtgg
+    T_alcocki             gtccctggacgattaaatcaaacaagatttttaattaatcaacctggattattttatggtcaatgttcagaaatttgtgg
+    T_arcuata             atcccaggacgactcaatcaaacaagatttttaactaaccggcccggactattttacggccagtgttcagaaatttgtgg
+    T_paradussumieri      atcccaggacggctaaatcaaacaaggtttttaattaaccaacctggattattttacggacaatgttcagagatctgtgg
+    T_polita              attccaggacgactaaatcaaacaaggtttttaatcaatcgacctggattactctacggacaatgttcagagatctgtgg
+    T_rosea               attccaggacgacttaaccagacaagatttctaattaatcgtcctggattattttatggtcaatgttcagagatttgtgg
+
+    G_borealis            tgctaaccataggtttatacctattgttattgaaagagtctctattaattcattcctaaattgaatttcttta-------
+    T_Capricornis         tgctaaccatagatttatgccgattgtaatcgaaagaatttcaattaattcttttttaaactgaatttcttta-------
+    T_acuta               agctaaccacaggtttataccaattgtaatcgaaagaatttcaattaactctttcttaaactgaatttcttta-------
+    T_alcocki             agctaatcacagatttatacctattgtaattgaaagaattcctattaattctttcttaaactgaatttcctta-------
+    T_arcuata             tgctaaccatagatttatacctattgtaattgaaagaatcccaattaattctttcttagactgaatttcttta-------
+    T_paradussumieri      tgctaaccatagatttatgccaattgtaatcgaaagaatttcaattaattcttttttaaactgaatttctttatcaacag
+    T_polita              tgctaaccatagatttataccgattgtaattgaaagagtatccattgactcctttttaaactgaatttctttatcaacgg
+    T_rosea               tgctaatcacagatttataccaattgtaatcgaaagaatttctattaactcttttttaaactgaatttcttta-------
+
+    G_borealis            -----------------tctcacggatttcacccctatcatctagtagatataagtccatgaccacttactggatcaatc
+    T_Capricornis         -----------------actcacggtttccacccttatcacttggtagacataagtccctgacctcttactggatcgatt
+    T_acuta               -----------------tctcacggtttccacccatatcacttagtagatataagcccttggccactcactggatcaatt
+    T_alcocki             -----------------actcactcttttcacccttaccatttagtagacataagtccctgaccccttactggatcaatt
+    T_arcuata             -----------------tctcacggcttccacccctaccacttagtagacatgagtccttgaccccttactggttcaatt
+    T_paradussumieri      aaaattaaatgacatcaactcacggtttccacccttaccacttggtagacataagtccctggcctcttactggatcaatt
+    T_polita              aaaactaaatgacatcaactcacggttttcacccctatcatttagtagatataagtccatgaccccttactggctcaatc
+    T_rosea               -----------------tctcacggctttcacccctaccacttagtagacataagtccatgacctcttactggctcaatt
+
+    G_borealis            agagctataatattaacaacaggactagtaaaatgattccatcaatataatataaatctcctcctattaagatttgttac
+    T_Capricornis         agagctataatactaacaacagggctagtaaaatgatttcatcagtacaacataaacttactattattaagatttatcac
+    T_acuta               agagctataatattaacaacaggacttgtaaaatgattccaccaatataatataaatttactactattaagatttatcac
+    T_alcocki             agagctataatattaacaacaggattagtaaaatgattccaccagtataatatgaacttactgttactaagattcgttac
+    T_arcuata             agagcaataatattaacaacaggacttgtaaaatgatttcaccagtataacatgaatttattgttgttaagacttgtcac
+    T_paradussumieri      agagctataatactaacaacagggctagtaaaatgattccaccagtacaacataaacttactattattaagatttattac
+    T_polita              agagcaataatgttaaccacaggacttgtaaaatgattccatcaatataatataaacctactattattaagacttgttac
+    T_rosea               agagcaataatgttaacaacaggactagtaaagtgatttcaccaatacaatataaatttactactattaagatttgtaac
+
+    G_borealis            gacaatcttaacaataattcaatgatgacgagacgtcactcgtgagggaacttatcagggactccacactattatagtta
+    T_Capricornis         tactattttaactataattcaatgatgacgagatgtaactcgagaaggaacctatcaaggactacacacgattatagtta
+    T_acuta               caccgtcttaaccataattcaatgatgacgggatgtgacccgtgaagggacctaccaaggacttcacacaattatagtcg
+    T_alcocki             tactatcttaactataattcaatgatgacgagatgtaacccgagaaggaacctatcaaggactccatacaattatagtta
+    T_arcuata             tactatcttaactataattcaatgatgacgagatgtaacccgagagggaacctacagaggacttcatacaattatagtta
+    T_paradussumieri      tactattttaactataattcaatgatgacgggatgtaactcgagaaggaacttatcaagggctacacacaattatagtta
+    T_polita              tactgtcttaactataattcagtgatgacgggacgtaacacgagaaggaacttaccagggattacatacaattgtagtta
+    T_rosea               tactatcttaaccataattcaatgatgacgggatgtaacccgagaaggaacttatcaaggacttcacacaattatagtta
+
+    G_borealis            taaaaggactacgttgaggtataatcttatttattctatccgaagtattattctttttctcattcttctgagctttcttc
+    T_Capricornis         taaaaggactacgatgaggaataattttatttattgtatcagaagtattattcttcttctcttttttctgagctttcttc
+    T_acuta               taaaaggactacgctgaggaataatcctattcattgtttcagaagtattattcttcttttcctttttctgggcctttttc
+    T_alcocki             taaagggattacgatgaggaataattttatttattgtgtccgaagtactatttttcttctcttttttttgagcttttttt
+    T_arcuata             taaaaggattacgatgaggaataattctatttattgtttccgaagtattattctttttctccttcttctgagcttttttc
+    T_paradussumieri      taaaaggactacgatgaggaataattttattcattgtgtcggaagtattattcttcttctcttttttctgagctttcttc
+    T_polita              taaaaggattacgatgaggaataattctattcattgtatccgaagtactatttttcttttcttttttttgagcattcttt
+    T_rosea               taaaaggactacgatgaggaataattctatttattgtatccgaagtattattctttttttctttcttctgagccttcttt
+
+    G_borealis            cacagaagattatcccctacagttgaaattggaatatattgacctcctttagggattcaaccatttaaccctttccagat
+    T_Capricornis         catagtagattatctcctacagtggaaattggtatgtactgacccccgataggaattcagccatttaatccatttcaaat
+    T_acuta               cacagtagattatccccaactgtagaaatcggaatatattgacctcctttagggatccaaccatttaatccatttcaaat
+    T_alcocki             catagtagcttgtccccaacagtagaaattggtatatattgaccccccttaggaattcaaccctttaatcctttccaaat
+    T_arcuata             cacagtagattatccccaacagtagagatcggtatattctgacccccattagggatccaaccgtttaatccattccaaat
+    T_paradussumieri      catagtagattgtccccgacagtagaaatcggtatatactgaccccctataggaattcaaccatttaacccatttcaaat
+    T_polita              cacagaagattatcaccgacagtagaaattggtatatattgacctcctttaggaatccaaccatttaatccattccaaat
+    T_rosea               cacagaagattatctccaacagtagaaattggtatgtattgacctcccttaggaattcagccatttaacccattccaaat
+
+    G_borealis            tccgcttcttaatacaactattctgctttcatcaggagcaactgtaacatgagctcatcatgcaattatagaatcaaacc
+    T_Capricornis         ccctcttcttaataccacaattttattatcttcaggggcaacagtaacatgagctcatcatgcaattatagagtctaatc
+    T_acuta               ccccctccttaatacaactattttactgtcctcaggagcaacagtaacatgagcgcaccacgctattatagagtctaacc
+    T_alcocki             ccctcttcttaatacaacgattttactatcttcgggggcaacagtaacatgagctcaccatgcaattatagaatctaacc
+    T_arcuata             tcctctccttaacacaactattttactgtcttcaggagcaacagtaacgtgagcccaccatgctattatggagtctaacc
+    T_paradussumieri      ccctcttcttaatacaacgattttattatcttcaggagcaacagtgacatgggctcatcatgcaattatagagtctaatc
+    T_polita              ccctttacttaatacaacaattttattatcttcaggagctacagtaacatgagcccaccacgcaatcatggaatctaatc
+    T_rosea               tcctcttcttaacacaactatcttattatcctcaggagcaacagtaacatgagctcaccatgcaattatagagtcaaatc
+
+    G_borealis            acaatcaagctatccaaagtttaggcctaactatcattctcggggtttacttcactttactacaggcttttgagtatatt
+    T_Capricornis         acaaccaggcaattcagagtcttggattgactattatcttaggattttactttactgcgcttcaagccttcgaatatatt
+    T_acuta               acagtcaatcaattcaaagactaggactgactattgttttaggaatttattttactgctctacaggcctttgaatatatt
+    T_alcocki             ataaccaagctatccaaagcctaggactaaccattatcttaggagtctattttactgccctacaagccttcgaatatatt
+    T_arcuata             acagccaagcaatccagagtctagggttaactattattttaggaatttactttactgcacttcaagctttcgaatacatt
+    T_paradussumieri      acaaccaggcaattcaaagtcttggactgactattgttttaggagtttactttactgcacttcaagccttcgaatatatt
+    T_polita              ataatcaagctattcaaagattaggattaaccattatcttaggactttattttactgctctacaagcttttgaatatatt
+    T_rosea               acaaccaagcaattcaaagtctagggttaactatcattttaggattttactttactgcacttcaagctttcgaatatatt
+
+    G_borealis            gaagctccttttactattgcagactccgtttttgggtcaacattttttgtagccacaggatttcatggtttacacgtgat
+    T_Capricornis         gaagccccatttaccattgcagactcagtttttggatcaactttttttgtagctactggatttcatgggttacatgttat
+    T_acuta               gaagcaccttttactattgcagactcagtctttggatcaaccttctttgtagcaaccggattccatggtctacacgttat
+    T_alcocki             gaagccccttttactattgcagactcagtatttggatcaactttttttgtagctaccggatttcatggacttcacgttat
+    T_arcuata             gaagccccatttactattgcagactccgtatttggatcaaccttttttgtagctactggtttccacgggttacacgtcat
+    T_paradussumieri      gaagccccatttaccattgcagactcagtatttggatcaactttttttgtagctactgggtttcatggattacatgttat
+    T_polita              gaagcaccttttaccattgctgactcagtgtttgggtcaactttttttgtagcgacagggttccatggcttacatgttat
+    T_rosea               gaagcaccgtttactattgcagactcagtatttggatcaactttctttgtagctactggattccatggattacacgttat
+
+    G_borealis            tattggaaccacatttttatcagtatgttttttccggctatacaaatgccacttctcatctaaccaccacttaggatttg
+    T_Capricornis         cattgggacaacgtttctctcagtgtgctttttacgactctataaatgccacttttcgtccaaccatcacttaggatttg
+    T_acuta               tattggaacaagattcctttctgtatgtttcctacgactctataagtgccatttctcgtctaaccatcacgtaggatttg
+    T_alcocki             tattggaacaacgttcctttcagtatgttttttacgactttataaatgtcacttttcatctaaccatcacttaggatttg
+    T_arcuata             tattggaacaacgttcctctcagtgtgctttttacgactttacaagtgtcacttttcatctaaccatcacttaggatttg
+    T_paradussumieri      cattgggacaacattcctttcagtgtgctttttacgactttataagtgccatttttcatctaaccatcacttaggatttg
+    T_polita              tattggtacaacattcctttcagtatgtttcctccgactatataagtgccacttttcatctaatcaccatttaggatttg
+    T_rosea               cattgggacaacattcctttcagtatgttttttacgactttataaatgtcacttctcgtcaaatcatcatttaggatttg
+
+    G_borealis            aagccgcagcttgatattgacactttgtagatgtagtgtggctattcctttatattttcatctactgatgagga------
+    T_Capricornis         aagctgccgcctgatactgacattttgtagatgtagtatgattgttcctttacatcttcatttattgatgaggg------
+    T_acuta               aagccgccgcttgatattgacatttcgtagatgtagtctgactatttttatacatttttatctactgatgggga------
+    T_alcocki             aggccgccgcttgatactgacatttcgtagatgtagtatgattattcctttacattttcatttattgatgagga------
+    T_arcuata             aagctgccgcttgatattgacatttcgtagatgttgtatgactattcctttacattttcatttactggtgaggg------
+    T_paradussumieri      aagctgccgcctgatactgacactttgtagatgtagtatgactattcctttacatcttcatttattggtgaggaggataa
+    T_polita              aagcagctgcttgatattgacattttgtagatgtagtatgattattcctttatattttcgtttattggtgaggaggataa
+    T_rosea               aagccgctgcttgatattgacattttgtagatgtagtatgattattcctttacattttcatttattgatgagga------
+
+    G_borealis            ---------------gtagaagttgttaattttttggttttaattgtatgtgtgttggtaggggtggctttcgtaacttt
+    T_Capricornis         ------------attgtagaagttgtaaattatctaattttaattatttgtgttttagtaggggttgcttttgttacctt
+    T_acuta               ------------------gaggtcacaaattatttggttttaattatttgtgttttagtaggagtggcttttgttacttt
+    T_alcocki             ---------------gtggaggttgtaaattatttagtgttaattatttgtgttttggtaggggtagcttttgttacttt
+    T_arcuata             ---------------gtagaggttgtaaattatttagttttaattatttgtgtattggtgggggtagctttcgttactct
+    T_paradussumieri      atgtctttgataattgtggaagttgtaaattatttaattttaattatttgtgttttagtaggagttgcttttgttacttt
+    T_polita              atgtttttgatagttgtggagattgtaaattatttgattttaattatttgtgttttagtaggagtggcttttgttacttt
+    T_rosea               ---------------------attgtaaattatttggttttaattatttgtgttttagtgggagtagcttttgttacttt
+
+    G_borealis            gttggaacgtaagattttaggctatattcagattcgtaaaggtcccaacaaagttgggtatataggaatcttacagccat
+    T_Capricornis         attagaacgtaagattttaggctatatccagattcgtaaaggcccaaataaagtaggttatatgggaattttacagccat
+    T_acuta               gctagagcgtaaaattttaggttatattcagattcggaaaggtccaaataaagttggttatataggggttttacaaccat
+    T_alcocki             attggaacgtaaaattttgggttatattcagattcgtaaaggtccaaataaggtaggttacataggaattttacagccat
+    T_arcuata             gttagagcgtaaaattttaggttatattcagattcgtaaaggtccaaataaggttggttacataggaatcttacaaccgt
+    T_paradussumieri      attagaacgtaagattttaggctatattcaaattcgtaaaggtccaaataaagtaggttatatgggaattttacagccat
+    T_polita              gttagaacgtaaaattttaggttatattcagattcgtaaaggacctaacaaggtcggttatatgggagttttacagccat
+    T_rosea               gttagagcgtaaaattttaggttatattcagattcgtaaaggtcctaataaagttggttatatgggtatcttgcagccat
+
+    G_borealis            tttctgatgctgtaaaactttttactaaagagcaaacagttcctattatatcaaattttttagtttattatatgtgtcct
+    T_Capricornis         tttctgatgctgtaaagttattcaccaaagagcagacaatacctattatgtcaaattttttggtttattatatgtgtcct
+    T_acuta               tttctgatgctgtgaagttgtttactaaggaacagagagtacctattatgtcaaattttctggtttactacatgtgtcct
+    T_alcocki             tttctgatgctgtaaaattatttactaaggaacagagggttcctactatatcaaattttttggtttattacatgtgtcct
+    T_arcuata             tttctgatgctgtaaagttatttactaaggagcaaactatgcccattgtgtctaattttttggtttattacatgtgtccc
+    T_paradussumieri      tttctgacgctgtaaaattatttaccaaagagcaaacaatacccattatgtcaaattttttggtttattatatatgtcct
+    T_polita              tttctgatgctgtaaaattatttactaaggaacaaacaacgcccattatgtcgaatttttttgtttattacatgtgtcct
+    T_rosea               tttctgatgctgtaaaattatttactaaagaacaaacaatacctgttatgtcaaattttttagtttattatatgtgtcca
+
+    G_borealis            gtttttagtttgtttatttctttattggtgtgagtggtgctaccctacgagaccgggctagttagatttgatttaagcat
+    T_Capricornis         gtattcagcttgtttatctccttattggtttggattgttctaccttacgaaacaggattggtcaggtttgatttaagtat
+    T_acuta               gtttttagcctatttatttctttattggtctgggtggttttaccttatgaaactggattggtcagttttgatttaagtat
+    T_alcocki             gtttttagtttgtttatttctttattagtttgagttgtaataccttatgaaacaggattggtcaggtttgatttaagtat
+    T_arcuata             gtctttagtttatttatttctttattagtttgagtcgtgttaccttacgaaacgggattggtcaggtttgatttaagtat
+    T_paradussumieri      gtgttcagcctgtttatctccttattggtttggattgtattaccttatgagacaggattggtcagatttgatttaagtat
+    T_polita              gtatttagtctatttatttctttattggtctgaattgtactgccttatgaaatgggattggtcagatttgatttaagtat
+    T_rosea               gtctttagtttatttatttctttattggtttgaattgttctaccgtatgaaacaggattggttagatttgatttaagtat
+
+    G_borealis            tttgttttttttgtgttgtttaagaataggagtttattcaaccatagttgctggttggtcgtctaattgtaaatattctc
+    T_Capricornis         ccttttttttttaagttgtttaagaataggtgtttattcaactatagttgctggctgatcatctaactgtaaatattctt
+    T_acuta               tcttttctttttatgttgtttaagaataggtgtttattcaactatagttgctggttgggcctctaattgtaaatattctt
+    T_alcocki             tctcttctttttatgttgtttaagaataggtgtttattcaactatagtcgctggttgatcttctaattgtaaatattctt
+    T_arcuata             ccttttctttttatgttgcttaaggataggtgtatattcaaccatggttgctggttgatcttcaaattgtaaatattctt
+    T_paradussumieri      tcttttttttttaagttgtttaagaataggtgtttattcaactatagtagctggttgatcatctaattgtaaatattctt
+    T_polita              tcttttctttttatgttgtttgaggataggggtttattcaactatggttgctggttggtcatctaattgtaaatattctt
+    T_rosea               tcttttctttttatgttgtctgagaataggtgtttattcaactatggttgctggttgatcttctaattgtaagtattctt
+
+    G_borealis            ttttaggtaggcttcgagcagtagctcaaactatttcttatgaagtaaggttggctttaattttattgtcttttgttatt
+    T_Capricornis         tgttggggagtttacgtgctgttgctcagactatttcatatgaagtaagattagctttaattctactttcttttgttgtt
+    T_acuta               tattagggagtttacgtgcggtcgctcagactatttcttacgaagtaaggttggctttaattttgctttcttttgttgtt
+    T_alcocki             tattaggaagtttacgggcggttgctcaaaccatttcttatgaagtaaggttggctttaattttactttctttcgttgtt
+    T_arcuata             tgctaggaagtttgcgtgctgtcgctcaaaccatttcttatgaggtaagtttggctttaattttgctttcttttgttgtt
+    T_paradussumieri      tgctagggagtctgcgtgctgttgcccagactatttcgtatgaagtaagattagctttaattttactttcttttgttgtt
+    T_polita              tgttgggtagtttacgtgcagttgctcaaactatttcttatgaagtaaggttagctttgattttactttctttcgttgtt
+    T_rosea               tacttggaagattacgtgcagttgctcaaactatctcttacgaagtaagattggctttaattttactttcttttgttgtc
+
+    G_borealis            ttagttggggggttcaatctagatctttttaatacatatcagtgtgatttctggtttattattattgggctgcctttagg
+    T_Capricornis         ttagttggcgggtttaatttagacttgtttaacaaataccaaagtgattcttgatttattattattggtcttccacttgg
+    T_acuta               ttggtaggaggatttagcttagatttatttaataagtatcaatgtgatttttgatttattattatcggtgggcctctcgg
+    T_alcocki             ttagttggcgggtttaacttagatttattcaacaaatatcaaagtgatttttgatttattattattgggcttcctctcgg
+    T_arcuata             ttagtaggtgggttcaatttggatctattcaataaatatcaaagtgacttttgatttatcattattggattacccttggg
+    T_paradussumieri      ttagttggtgggtttaatttagatttatttaatcaatatcaaagcgattcttgatttattattattggtctcccactcgg
+    T_polita              ttagtcggggggtttaatttagatctttttaacgagtaccaaggtaacttttgatttattgtaattggtttacctcttgg
+    T_rosea               ttagtgggggggtttaatttagatttgtttaataagtatcaaagtgatttttggtttatcattattggtttacctctcgg
+
+    G_borealis            gttggtctgatttaggtcttgtttagctgagactaatcgaaccccctttgattttgcggaaggtgaatctgaattagttt
+    T_Capricornis         tatggtttggtttaggtcttgtttagctgaaactaatcgtactccttttgattttgcagagggagaatcagagttagttt
+    T_acuta               tatggtttgattcaggtcttgtttagctgagactaatcgtactcctttcgattttgcggagggagaatctgagttagttt
+    T_alcocki             tatggtttggtttagatcttgtttggcagaaactaatcgtactccttttgattttgcagaaggagaatcagaattagttt
+    T_arcuata             tatggtttgatttaggtcttgtttagctgagacaaatcgaactccttttgattttgcagagggagagtcagagttggttt
+    T_paradussumieri      tatggtttggttcagatcttgtttagctgaaacaaaccgcactccttttgatttcgcagaaggggagtcagaactagttt
+    T_polita              tatagtctgatttagttcttgtttagctgaaactaatcgtactccttttgattttgcggaaggagaatctgaattagtct
+    T_rosea               tatggtttggtttaggtcctgtctagctgaaactaatcgtactccttttgattttgcagaaggggaatctgagttagttt
+
+    G_borealis            ctgggtttaatactgagtatggtgctggaggatttgctttaatttttatggcggagtattctagaattttgtttataaga
+    T_Capricornis         ctggatttaacactgagtatggagctggagggtttgctttgatttttatagcggagtatgctagaattttattcataagg
+    T_acuta               ctgggttcaatacagaatatggggcaggagggtttgctttaatttttatggcagagtatgctagaattttgtttataaga
+    T_alcocki             ctgggtttaatactgagtatggggctggaggatttgctttaatttttatggcggaatacgctagaattttgtttataagg
+    T_arcuata             ctgggtttaacactgagtatggagccggcggatttgctttaatttttatagcagagtatgctagaattttatttataagg
+    T_paradussumieri      ctgggttcaatactgagtatggagctggagggtttgctttgatttttatagcggagtatgctagaattttatttataagg
+    T_polita              ctggatttaatactgaatacggggctggggggtttgctttaatttttatggcggaatatgctagaattttgtttataagg
+    T_rosea               cggggtttaacactgagtacggagctggtgggtttgctttaatttttatggcagagtatgctagaattttgtttataaga
+
+    G_borealis            gttttatttgtaattctttttttaggcggtagattatttagtgttttgttttatctaaagagtgtaataattgcttttgt
+    T_Capricornis         gtgttatttgtaattctttttttaggtgggaggttgttcagggttttattttatttaaagagtgttataattgcttttgt
+    T_acuta               gttttatttgtaattctttttctggggggaagcttgtttagagttttattttatttaaagagagtaattattgcttttgt
+    T_alcocki             gtattgtttgtaattctttttttggggggaagtttaattagagtattattttatttaaaaagtattatggttgcttttgt
+    T_arcuata             gtcctatttgtaattctttttttaggaggggggctggttagagttttattttacttgaaaagtgtaatagttgctttcgt
+    T_paradussumieri      gtgttatttgtaattctttttttaggggggagtttgtttagggttttattttatttaaagagtgtaataattgcttttgt
+    T_polita              gtgttatttgtaattctctttttaggaggtggtttgtcaagagttctgttttatttaaagagtgtaataattgcttttat
+    T_rosea               gtattatttgttattctttttttagggggaaatttgtttagggttacattttatttgaagagtgtattaattgcttttgt
+
+    G_borealis            ttttgtgtgggttcgaggtactttacctcgttttcggtatgataagttaatgtatctggcttgaaaaaggtatttaccgg
+    T_Capricornis         ttttgtctgggttcgaggcactttacctcggtttcgttatgataaactaatgtatttagcttggaagagatatctacctt
+    T_acuta               ttttgtttgagttcgggggactttacctcgatttcgttatgataagttaatgtatttagcttgaaaaagatacctacctt
+    T_alcocki             ttttgtttgggtacgaggaactttaccacgatttcgttacgataaattaatatatttagcttgaaaaagatatttgcctt
+    T_arcuata             tttcgtttgagttcggggtactttgccgcggtttcgctatgataagctaatatatttagcttgaaaaagatatttacctt
+    T_paradussumieri      ttttgtctgggttcgaggcactttacctcggtttcgttatgataagctgatatatttggcttggaaaagatacttacctt
+    T_polita              ttttgtctgggttcgaggaacattaccgcgatttcgttatgacaaattaatgtacttagcttgaaaaagatatttacctc
+    T_rosea               ttttgtttgggttcgtggaactttacctcggtttcgttatgataaattaatatatttagcttgaaagagatatttacctt
+
+    G_borealis            tatctattaattatttaattttttttttagggttcaagatg---------------------------------------
+    T_Capricornis         tatcaattaattatttaattttctttttaggactgaaaatatttttttatggt------------atatttcctctttct
+    T_acuta               tatctatcaattatttaattttctttctaggtttgaagata------------------------atatttccttttacc
+    T_alcocki             tatcgatcaattatttaatttttttcttaggattaaaaata------------------------atatttcctttttct
+    T_arcuata             tatcaatcaattatttgattttttttttgggattaaaaata------------------------atatttcctttttct
+    T_paradussumieri      tatcaattaattatttaattttttttttagggctgaaaatatttttttatagagtgatttaaattatatttcctctttct
+    T_polita              tatcaattaattatttaatcttttttttaggattaaaaatatttttgtttagtttaatttaaattttatttcctttttct
+    T_rosea               tgtcaattaattatttaattttttttttagggttaaaaata------------------------atatttcctttttcc
+
+    G_borealis            ------ctttttttttttttcctggttataggaattttaatctcaatttcttccccatcctgatttggtgtatgaattgg
+    T_Capricornis         tatcttatcttcttcttttttcttattataggagtcttgatttcagtttcttctccatcctgatttggagtttgaattgg
+    T_acuta               cacatcttattttttttttttcttattataggagttttaatttcaatctcctctccatcatgatttggaatctgaattgg
+    T_alcocki             tattttatcttcttttttttccttgttataggagttttaatctctatttcctctccctcttgattcggagtttgaattgg
+    T_arcuata             tatcttattttcttttttttcctaattataggagttttaatctcaatttcttctccttcctgatttggagtttgaatcgg
+    T_paradussumieri      tatattatctttttcttttttcttattataggagtcttgatctcaatttcttctccatcctggtttggagtttgaattgg
+    T_polita              tatcttatctttttttttttccttattataggaattataatttcaatttcttctccatcttgatttggaatttgaattgg
+    T_rosea               tatattattttcttctttttccttattataggagttctaatttcaatttcttccccatcttgatttggagtttggattgg
+
+    G_borealis            acttgaactaaatcttatatcgtttattcccttaatttcatttaaaataaactcttacttttcagaagcagcccttaaat
+    T_Capricornis         tttagaactaaacctcatatctttcatccccctaatttcattaaaaataaactcttacttttctgaagcagccctcaagt
+    T_acuta               attagaactaaatcttatatcttttattccactaatttcattaaaaataaacccttacttttcagaagcggctcttaaat
+    T_alcocki             cttagaactaaaccttatatcttttattccattaatttcgttaaaaataaattcttatttttccgaagcagcgcttaaat
+    T_arcuata             tctagaactaaacctcatatcttttattcccttaatttcactgaaaataaactcttatttttccgaagcagcacttaaat
+    T_paradussumieri      tttagaactaaacctcatatctttcatccctctaatttcattaaaaataaactcttacttttccgaagcagccctcaaat
+    T_polita              attagagctaaaccttatatctttcattccgctaatttcactaaaaataaactcttacttctcagaagcagcgcttaaat
+    T_rosea               actagaactaaatcttatatcttttattccattaatttcacttaaaataaactcctatttttcagaagcagcacttaaat
+
+    G_borealis            actttttaattcaggcgataggatcagccttattaatctcttcaaggtttttgtttatttcaataacttttattagtctc
+    T_Capricornis         attttttaatccaagctataggctcggctttattaatttcctccagatttttgtttttatcattatcctttattagatta
+    T_acuta               atttcctgattcaagctataggctcagccctattaatttcttctagatttttatttatttcattgacatctattagactt
+    T_alcocki             acttcttaatccaagctataggatcagctttattaatttcttctagatttttgtttatttcactaacatttattaggtta
+    T_arcuata             attttttaattcaagctataggctcagctttactaatttcttctaggtttttgtttatttcattatcccatattagatca
+    T_paradussumieri      attttttaatccaagccataggctcagctttattaatttcctccagatttttatttttatcattatcatttattagatta
+    T_polita              attttctgattcaagctataggatctgccttactcatttcctctagattcctatttatttcactaacatttattagatta
+    T_rosea               atttcttaatccaagctataggatcagccttattaatctcttcaagatttttatttatttcattaaccctcattagattc
+
+    G_borealis            tctcttattctattttctctacttttaaaaatgggtagggccccatttcatttttggttcccacaagtaatagagggttt
+    T_Capricornis         tttttaattttattttccctgttattaaaaataggaagagccccctttcatttctgattcccccaagttatagaaggaat
+    T_acuta               ctcttaatcctattttctttactattaaaaataggaagtgctcctttccatttctgatttccccaagtgatggaaggaat
+    T_alcocki             tttttaattcttttttctcttttattaaaaataggaagagcaccttttcatttctgatttcctcaggtaatagaaggact
+    T_arcuata             tttttaatcttattttctttattattaaaaataggaagagcgcctttccacttttgattcccccaagtaatagaaggaat
+    T_paradussumieri      tttttaattctattctctctattattgaaaataggaagagccccctttcatttctgatttccccaagttatagaaggaat
+    T_polita              tttctaattctattctcattactattaaaaataggaagagctccttttcacttttggttcccacaagtaatagaaggaat
+    T_rosea               ttcttaattatattttccttactattgaaaataggaagagctcctttccatttttgatttcctcaagtaatagaaggaat
+
+    G_borealis            actctgacctcaagtctttttactctctacagtccaaaagatagcacctcttaccttaacttcatatttaataatcagag
+    T_Capricornis         cctatgacctcaagttttccttttatcaacaatccaaaaactagctccattaactctaacctcatacttaataatttcag
+    T_acuta               ctcttggtctcaggtctttttattatccacagtacaaaagttagctccacttaccctgacttcatacttaataatctcaa
+    T_alcocki             tctctggccccaagtttttcttttatcaacaattcaaaaactagctccattaaccttaatttcctacctaataatttcgg
+    T_arcuata             tctctgacctcaagtttttttattatcaacaattcaaaaggtggccccattaactttagtttcatatcttataatttcag
+    T_paradussumieri      cctttgacctcaagttttccttttatcaacaattcagaaactggccccattaactctaatctcatacttaataatctcag
+    T_polita              tctttgacctcaagtttttttactatctacgatccaaaaattagctccactaactttaatttcatacttaatggtttcag
+    T_rosea               tctttgaccccaagtcttcctactttctacaattcagaaactagccccattaactttaatctcatatcttataatttcag
+
+    G_borealis            aaacattaagtaaattagttattatctcagcgatcctttcagctataatcggggccttaggtgggttgaaccttatattc
+    T_Capricornis         aaaccctaagaaaattagtaatttttacagccattgcttctgctattattggagcccttgggggactaaacttaatattt
+    T_acuta               gaaccctaactaaactagttattcttacagctatcctttctgctattgttggagccttaggggggttaaatttaatattt
+    T_alcocki             aatctttaaataaattacttattcttgcagctatttcttccgctattattggtgcactcgggggtttaaacttaataccc
+    T_arcuata             aaactttgagtaaactacttatttttacagccatctcttctgctattgtcggggctttaggcggtttaaacttgatattc
+    T_paradussumieri      aaaccctaagaaaactagtaatttttacagctattgcttctgctattattggtgcgcttgggggactaaacttaatattt
+    T_polita              aaactttaagtaagctagtcacttttacagccgtttcctctgctattattggagctttagggggactaaatttaaccctt
+    T_rosea               aaactctaaataaattaattatttttacagctatttcttctgctattatcggagctttaggaggattaaatttaatattt
+
+    G_borealis            ctacgaaaaattattgcattttcctcaattaaccatctgtcttgaatattaatcgcaatctcaataagagataccttctg
+    T_Capricornis         cttcgtaaaattattgcgttttcatcaattaaccacctatcttgaatattaatcgcaatttcaataagagataatttttg
+    T_acuta               cttcgtaaaattattgcattttcatcaattaatcacttatcttgaatactaattgcaatctcaataagagacaccttctg
+    T_alcocki             cttcgtaaaattattgcattctcctcaattaatcatctatcttgaatattaattgcaatttcaataagagataacttctg
+    T_arcuata             ctgcgtaaaattattgcattttcatcaattaatcacctgtcctgaatattaattgcagtctcaataagagacactttttg
+    T_paradussumieri      cttcgtaaaattattgcattttcatcaattaaccacctatcttgaatattaatcgcaatttcaataagagataatttttg
+    T_polita              ctccgtaaaattattgcattttcatcgattaaccacttatcttgaatactaattgcaatttcgataagagacaccttttg
+    T_rosea               cttcgtaaaattattgcattttcatcaattaatcatttgtcttgaatattaattgcagtatcaataagagacactttttg
+
+    G_borealis            actattctatttttctatttatagagtaattttattatctattacaaggatattcttcaaattacaaacttttacactat
+    T_Capricornis         attattttattttttggtttataggttaattttactttcaattacaagtatattttttaaactacaaacttatacactgt
+    T_acuta               attattttacttttcaatttatagaattatcttactctctattacaagaatattttctagactacaaacctacacattat
+    T_alcocki             attattttattttttaatttacagacttatcttactttcgattacaagtatattttttaaattacaaacctatacacttt
+    T_arcuata             gctattttactttttaatttatagacttattttactctcaattacaagtatgttttacaaattacaaacttatacgctat
+    T_paradussumieri      attattttattttttaatttatagattaattttactttcaattacaagtatgttttttaagttacaaacttatacactat
+    T_polita              attattttatttttcaatttatagatttattttgctttcaattacaagtatattttttaaactacaaacttatagattat
+    T_rosea               attattttattttttgatttatagactaattttgttatcaattacaagtatattttttaaattacaaacttatacactat
+
+    G_borealis            caagattaattaaatctgaccaaactagatctctcttcccactgatcatctctttaaactttttttccctcagggggtta
+    T_Capricornis         ctagattgattaaatctgattcaaataatttctttttctcattaattatttctttaaattttttatctcttagagggctt
+    T_acuta               ctaggctgattcaatctgatcaaaccaggccactgttcccgctaattgttgccttcaactttttttctctcagaggtcta
+    T_alcocki             ctagattagttcaatctgatcaaaacagctttatttttccactaattatctccttaaatttcttttccctcagagggctc
+    T_arcuata             caagattaatccagtctgaccaaaataaatctttattcttactagttatctcctttaatttcctttcactcagaggcctc
+    T_paradussumieri      ctagattaattaagtctgattcaaataattttttcttctcattaattatttctttaaattttctgtctcttagaggactt
+    T_polita              ctagactaattaaattagatcaaaacagatctatattcccacttcttatttcattcaattttctttctcttagaggtctt
+    T_rosea               ctagattgattaagtctgatcaaagtaaatctttattctctttgatcatctctttcaacttcctctctcttagaggactc
+
+    G_borealis            cccccttttacagggtttgtccccaaatgaatactaatccaagctatattagatcaaagtctgtttttacccgtcttttt
+    T_Capricornis         cccccttttacaggatttgttcctaaatgaatactaatccagattatactaaacaaaagattatttttacctactttttt
+    T_acuta               cccccttttacaggatttatccctaagtgaatattaattcaaattatgcttaatcaacatttattttttcctattttttt
+    T_alcocki             cctccttttacaggattcgttcctaaatgaatattaatccaaattatattaaatcaaaatatattttttcctcttttttt
+    T_arcuata             cctccttttacaggatttgttcctaaatggatgttaattcaaattatattagaccaaaagttgtttttccctattttttt
+    T_paradussumieri      cctccttttacaggatttgttcctaaatgaatattaatccaaattatactaaacaaaagattatttttacctactttttt
+    T_polita              cccccttttacaggatttattccaaaatgaatattaatccaaattataataaatcaaaatttattcttccctattttttt
+    T_rosea               ccaccttttacaggatttgttcctaaatgaatattaattcaaattatattaaatcaaaaactatttatacctattttctt
+
+    G_borealis            tcttttaacatcagccttaattacactttatttttacctacgaattataatcccatttattttgatcttaagtccg----
+    T_Capricornis         cctccttttatccgccttaatcaccctttacttttatttgcgaattattatt----------------------------
+    T_acuta               ccttcttttatccgctttaatcaccctttatttttacttacgaattattattccatttattttaattctaggtcccaaa-
+    T_alcocki             cctcctattatccgccttaattactctttatttttatttacggattattattccatttatccttgttcttaacccaaaa-
+    T_arcuata             tctcctcctttctgccttaattaccctttacttttacttacgaattattatcccctttattttagttttaaatcca----
+    T_paradussumieri      ccttcttttatccgctttaatcaccctttatttttatttacgaattattattccattcatccttattcttaatccgagaa
+    T_polita              tctacttttatccgctttaactacactttacttttatttacgaattattattccattcatcttaatcctcaatccaagaa
+    T_rosea               tcttcttttatctgctctagttacactttacttttacttacgaattattattccgttcattttaattttaaaccca----
+
+    G_borealis            --------------------------------------------------------------------------------
+    T_Capricornis         --------------------------------------------------------------------------------
+    T_acuta               --------------------------------------------------------------------------------
+    T_alcocki             --------------------------------------------------------------------------------
+    T_arcuata             --------------------------------------------------------------------------------
+    T_paradussumieri      taaggtttagcagaaaatttaaatcatttactttttcctcacctattcttattataaaaacatcgtttaattttttaggg
+    T_polita              tgagatttagaaaaaaattcaaatcttttactttttcctcaccatctattattataaaaacatcatttaactttttagga
+    T_rosea               --------------------------------------------------------------------------------
+
+    G_borealis            --------------------------------------------------------------------------------
+    T_Capricornis         ---------------------------------atatttgacttccaatcaaaaggactaaaaaatttagagaaagtaat
+    T_acuta               --------------------------------------------------------------------------------
+    T_alcocki             ---------------------------------atatttgacttccaatcaaaaggactaaatcatttagagaaagtaat
+    T_arcuata             --------------------------------------------------------------------------------
+    T_paradussumieri      ctccttttacctatttactctcttcttttatag-----------------------------------------------
+    T_polita              cttctcttaccagtttattccctactactatag-----------------------------------------------
+    T_rosea               --------------------------------------------------------------------------------
+
+    G_borealis            -------------------------------------------------------------------cttctagccaaaa
+    T_Capricornis         ctttgtaattttatttatatcaattttaacattctttgtttcattcctagtcatatttctatcaagcctattagccaaaa
+    T_acuta               -------------------------------------------------------------------ctactagccaaaa
+    T_alcocki             ttttgtagttttatttttatctatcctaacactccttattgctctcctagttatattattatcaagtttattagccaaga
+    T_arcuata             --------------------------------------------------------------------------------
+    T_paradussumieri      -------attctatttatatcaattttaacattccttgtttcattcctagttatgtttctatcaagcctattggctaaaa
+    T_polita              -------attttattaatttcaatccttacattttttattgctcttttagtaatatctttatcaagattactagcaaaaa
+    T_rosea               -------------------------------------------------------------------------------a
+
+    G_borealis            aaacgatcatagaccgagaaaagaactccccttatgagtgtggatttgaccccaaaggatccgcccggctcccattctca
+    T_Capricornis         aaacagttatggaccgcgaaaaaaattccccttatgagtgtggatttgatcctaaaggatccgctcgactccctttctcc
+    T_acuta               aaacaattatagatcgagaaaaaaattcaccatatgagtgtggatttgacccaaaaggatccgcccgacttcccttttct
+    T_alcocki             aaacaattatagaccgagaaaaaaattccccctatgaatgtggatttgaccctaaagggtcagctcgacttcctttttcc
+    T_arcuata             -----------gatcgagaaaaaaactcaccctacgaatgtggatttgaccctaaaggatccgctcgcttgcccttctca
+    T_paradussumieri      aaacaattatagaccgagaaaaaaattccccttatgaatgcgggtttgatcctaaaggatccgctcgactccctttctcc
+    T_polita              aaacaattctggatcgagagaaaaactctccttatgaatgtggatttgatcctaaaggatcagctcgacttcctttttcg
+    T_rosea               aaacaattatagaccgagaaaaaaactccccttacgaatgtggattcgaccctaaaggatcagctcgacttcccttttca
+
+    G_borealis            ctacgattcttccttattgctgtaatttttttaattttcgacgtcgaaattactctcctcctgccaatcgcctctacatt
+    T_Capricornis         ttacgatttttcttaattgcagttattttcctaattttcgatgtagaaattacccttctcttaccgattgcctctacatt
+    T_acuta               ctacgcttctttctcattgcggtaatctttctaattttcgacgtagaaatcaccttattactaccgatcgcttcaacatt
+    T_alcocki             ctacggttttttttaattgcagtcatttttcttatttttgatgtagagattacccttcttttaccgattgcctctacatt
+    T_arcuata             ctgcgattctttttaattgcagttatcttcttaatttttgatgtggaaatcactttacttctacctattgcctctacatt
+    T_paradussumieri      ttacgattttttttaattgcagttatcttcctcatttttgatgtagagattaccctcctcttaccgattgcctctacatt
+    T_polita              ttacgattctttttaattgcggtcatctttcttatttttgacgtagaaattaccctacttttaccaattgcttctacatt
+    T_rosea               ttacgattcttcctaattgcagtcattttccttatttttgatgtagagatcactctcctcttgccaatcgcttccacatt
+
+    G_borealis            caacttgactaatattttctcctgattctttacaagacttacattcatattcattctgttactaggactttactacgaat
+    T_Capricornis         taacattacaaacattttttcatgatttt---------------------------------------------------
+    T_acuta               taaccttaccaacatcttttcatggtttttcacaagattaacatttatatttattcttcttctaggactctattatgagt
+    T_alcocki             taatttaacaaatattttttcatggtttt---------------------------------------------------
+    T_arcuata             taaccttacaaacatcttttcatgattctttacaagattaatttttatatttattctcctcctagggttatactacgaat
+    T_paradussumieri      taacattacaaacattttttcatgattttttacaagattaacattcatattcattttactcttaggactatactatgagt
+    T_polita              taatcttacaaacgtcttttcatgatttattacaagattgacatttttatttatcttgctcctaggattatattacgaat
+    T_rosea               taatcttaccaacgtcttctcatggttttttacaagacttacatttctatttattttacttctaggactatattatgaat
+
+    G_borealis            gattccaaggggctctagaatgaaca------------------------------------------------------
+    T_Capricornis         --------------------------------------------------------------------------------
+    T_acuta               gacttcaaggagccctagaatgaaca------------------------------------------------------
+    T_alcocki             --------------------------------------------------------------------------------
+    T_arcuata             gattccagggagccctagaatgaact------------------------------------------------------
+    T_paradussumieri      gactccaaggggccctagaatgaacataa---------------------------------ataaaatataaaaatgat
+    T_polita              ggttacaaggggcgctagagtgaacataaatgttaaaatttcttttacctattattgtattgataaaatataagaatgat
+    T_rosea               gaattcaaggggccctagaatgaaca------------------------------------------------------
+
+    G_borealis            --------------------------------------------------------------------------------
+    T_Capricornis         --------------------------------------------------------------------------------
+    T_acuta               --------------------------------------------------------------------------------
+    T_alcocki             --------------------------------------------------------------------------------
+    T_arcuata             --------------------------------------------------------------------------------
+    T_paradussumieri      tgaagtttagttcaaataggattgggtttgattagttgttttgttgggattaattgttttcataatatgtatatatatgg
+    T_polita              tgaaatttagttcaaatgggattaggtttaattagttgtttaattggtgtaaattgttttcataatatatctgtatatag
+    T_rosea               ------------------------------------------------------------------------------ac
+
+    G_borealis            -------------ttaggaatagattttatttcttatattataatttatttaagggtttgggttatatatatgattatca
+    T_Capricornis         -------------ttaggaatggattatatttcttatattataatttacttaagtgtttgagttatatacatgattattt
+    T_acuta               ----------aacttaggaatagattatatttcttatattatagtttacttaagtgtttgagttatgtatataattattc
+    T_alcocki             -------------ttagggatggattatatttcttatattataatttacttaagtgtttgagttatatatataattattt
+    T_arcuata             -------------ttaggaatagattatatttcttatattataatttatctaagtgtttgggtaatatatataattattt
+    T_paradussumieri      attgggatttaatttaggaatggattatatttcctatattataatttacttaagtgtttgggttatatacatgattattt
+    T_polita              attagggtttaacttaggaatggattatatttcttatattataatttatttaagtgtttgggttatatacataattattt
+    T_rosea               gttaggatttaatttaggaatagattatatttcttatattataatttatttaagtgtttgggttatatatataattattt
+
+    G_borealis            ttgctagaaataaggtaaaagaagctaataaattttattctacttttgttattgtaaatttatttttgttactaagtcta
+    T_Capricornis         tagccaggaatggagtaaaggaagctaaaaagtttttttctatatttattcttgttaacttatttttgctactaagttta
+    T_acuta               tagctagaaatagagtaaaagaaactaaaaagttttcttctatatttattcttgttaatttatttttgttgttaagttta
+    T_alcocki             tagctaggaatagagtaaaggaaactaaaaaatttttttctatatttattcttgtaaatttatttttactgttaaggttg
+    T_arcuata             tggctagtaacggggtaaaagaaactaagaaatttttttctatgtttattttcgttaatttatttttattattaagatta
+    T_paradussumieri      tagctaggaacagagtaaaagaagctaaaaagtttttttctatatttatttttgttaatttactcttgttattaagttta
+    T_polita              tagctagaaataaggttaaagagtctaaaaactttttttctatatttattcttgtcaatttatttttattattgagttta
+    T_rosea               tagccagaaatggggtaaaagaaactaaaaagtttttttctatatttgtttttgtaaacttatttttgttactaagttta
+
+    G_borealis            atgattactttttcttcattgaattatttgttgttttatatcagttttgaaatgtctttaattcctacattaattttaat
+    T_Capricornis         gtaattactttttcttcattaaattatttattgttttatattagttttgaaatgtctttaattcctactttaattttaat
+    T_acuta               atagttactttttcttcattaaattatttattgttttatattagttttgaggtgtctttgattcctactttaattttaat
+    T_alcocki             gtaattactttttcttcattgaattatttattattttatattagttttgaaatatctttaatccctactttaattttaat
+    T_arcuata             ataattactttttcttcattaaattatttattattttatattagctttgagatatctttaatccctactttaattttgat
+    T_paradussumieri      gtaattactttttcttcattaaattatttattgttttatattagttttgaaatatctttaattcctactttaattttaat
+    T_polita              ataattactttttcttcattaaattatttattgttttatattagttttgaaatgtctttaattcctaccttaattttgat
+    T_rosea               ataattactttttcttcattaaattatttgttgttttatattagttttgaaatatctttaattcctactttaattttaat
+
+    G_borealis            tttgggctggggctaccagcctgaacgtattcaagctggtgtttatatgcttttttatactttaacattatctttaccct
+    T_Capricornis         tttaggatgaggttaccagcctgaacgtattcaggcgggagtttatatacttttttatactttaactttatctttaccat
+    T_acuta               tttggggtgggggtaccaacccgaacgtattcaggcgggggtttatatgcttttttatactttaactttatctttgcctt
+    T_alcocki             tttaggatgaggttaccaacctgaacgtattcaggcgggggtttatatacttttttatactttaactttatctttaccat
+    T_arcuata             tttaggatgaggctatcagcctgagcgtattcaggcaggagtttatatgcttttttatactttaactttatctcttccat
+    T_paradussumieri      tttaggatgaggttatcagcctgaacgcattcaggcgggagtttacatacttttttatactttaactttatctttaccat
+    T_polita              tttaggatgaggttaccaacctgagcgtgttcaagcgggtgtttatatacttttttatactttaactttatctttaccat
+    T_rosea               tttaggatgaggttaccagcctgaacgtattcaggcaggagtttatatacttttttatactttaactttatctttacctt
+
+    G_borealis            tacttggttctttgttgtatttaagtttcagggagtgtagattgactattatactaataaaaccttttatacacgataat
+    T_Capricornis         tacttgggtctttgctatatttaagttttagagaaaatagattaattattttgttgataaagccttttatgagtgtagat
+    T_acuta               tacttgggtctcttctgtatttaagttttagtgaaagtaggttaattattttgttaataaggcctataaaaaatacggat
+    T_alcocki             tacttgggtctttattatatctaaattttaaggaaggaagattaattattttattaataaagccttttataaacatagat
+    T_arcuata             tactcgggtctttattgtatttaagttttagggaaggtagtttaattattttattaataaaaccttttatgaatgtagat
+    T_paradussumieri      tacttgggtctttactatatttaagttttagagaaaatagattaattattttgttgataaagccttttataagtgtagat
+    T_polita              tacttggatctttgttatacctgagttttaaggaatgtagtctaattatcttattaataaaacctttaataaatgtaagt
+    T_rosea               tattgggatctctattatacttgagtttcagggagggtagtttaattattttgttaataaaaccttttataaatgttgat
+
+    G_borealis            tatagttatatgatttggtatttttctagagttatagctttcatagtaaaattacctatatatatatttcatttatggct
+    T_Capricornis         tatggttgtttaatttgatatttttctagaattatggcttttttagtaaaattacctatatatatgtttcacttgtgatt
+    T_acuta               tatggttatataatttggtatttttctagaattatggcttttttagtaaagttgcctatgtatatatttcatttatgact
+    T_alcocki             tatggttatataatttggtatttttctaggattatagcttttttagtaaaactacccatatatatatttcatttatggtt
+    T_arcuata             tatggttatatagtttgatatttttctagaattatagcttttttagtaaaattacctatgtatatatttcatttatggtt
+    T_paradussumieri      tatggttgtataatttgatatttttctagaattatagcttttttagtaaaattacctatatatatgtttcatttgtgatt
+    T_polita              tatggttacacaatttgatatttttctagaatcatggcttttttagtaaagttgcctatatatatatttcatttatggct
+    T_rosea               tatagttatataatttgatattttgctagaattatagcttttttagtaaagttacctatatatatatttcatttatgatt
+
+    G_borealis            gccaaaggctcatgtcgaagctccagtagctggttcgataattttagctggagttttacttaagctaggaggatatggat
+    T_Capricornis         acctaaagctcatgttgaggcgccagtagcgggttctataattttggctggggtgttattaaaattagggggttacggtc
+    T_acuta               acccaaagcccatgttgaagcaccagtagcaggttctataattttggctggagtattattaaaattaggggggtatggat
+    T_alcocki             acctaaggcccatgttgaagcgccggttgcgggttctataattttagctggagtattactgaaattaggagggtatggtt
+    T_arcuata             gcctaaagctcatgtagaagctccggttgccggttctataattttagctggagtactattaaaattaggtgggtacggtt
+    T_paradussumieri      acctaaagctcatgttgaggcgccagtagcgggttctataattttagctggagtattattaaaattaggaggttatggtc
+    T_polita              tcctaaggctcatgttgaagcaccagtagcgggttctataattttggctggagttttattgaagttaggtggttatggtt
+    T_rosea               acctaaagcccatgttgaggctccggttgctggttctataattttagctggggttttattaaagttaggtggctatggtt
+
+    G_borealis            taattcgtattttagttatatttcaaaaagttagtatgaaattctcttgattatgagtaagaatcaggctcttaggcggt
+    T_Capricornis         tgattcgtattctggttttatttcaaaaagttagaataagattttcttgattgtgggttagaattagactttttggaggt
+    T_acuta               taattcgtattttaattttatttcaaaaagtcagaataaaattttcttggttgtgagtaaggatcagactttttggaggg
+    T_alcocki             taattcgtattttggtcttgttccaaaaaattagaataggattttcttggttatgagtaagagttagactttttgggggt
+    T_arcuata             taattcgtatcttaattttattccagaaagtcaggataaggttttcttggttgtgggtaaggattagactttttggtggt
+    T_paradussumieri      taattcgtattctagttttattccaaaaagttaggataagattttcttggttgtgagttagaattagactttttgggggt
+    T_polita              taattcgtattttaattttatttcaaaaagtaagaataagattttcttgattatgagtaagaattagactttttggagga
+    T_rosea               taattcgtattttaattttatttcaaaaggttaggataaaattttcttgattatgagtaagaatcagactcttggggggt
+
+    G_borealis            gttattattagtttaatatgtctgcggcaggtcgatataaaatctttaattgcttattcttcagtagttcatataagtct
+    T_Capricornis         gtatttgtaagtttaatgtgcctacggcaagttgatataaaatctctgattgcttattcttcagtagtccatataagtct
+    T_acuta               gtaattgttagtttaatatgtttacgacaggttgatatgaagtctttaattgcttattcttctgtagtacatataagtct
+    T_alcocki             gtagttgtaagtttaatgtgtttacgacaagttgatataaaatctttaattgcttattcttcagtagttcatataagtct
+    T_arcuata             gtaattgtgagtctgatatgtttacggcaggttgacataaagtctttaattgcttattcttcggtagtccatatgagtct
+    T_paradussumieri      gtatttgtaagtttaatgtgtctgcggcaagttgatataaaatctctgattgcttattcttcagtagttcatataagtct
+    T_polita              gtagtcgttagtttggtgtgtttacgtcaagtagatatgaaatctttaattgcttattcttcagtagttcatataagtct
+    T_rosea               gtaattgtgagtttaatgtgtttgcgacaagttgatataaaatctttaattgcttactcttcagtagttcatataagtct
+
+    G_borealis            tgttttatgtggattagttgtatttagttggtgaggtttaatgggaagagtggttgttatagtgggacacggactatgtt
+    T_Capricornis         tgttctttgcgggttaatgatttttagctgatgaggtttaataggaagagtagttgttatagtaggtcatggattatgtt
+    T_acuta               tgttctttgtggactaataatttttagttgatgggggttgataggaagggtggttgttatagtaggtcatggactatgtt
+    T_alcocki             tgttctatgtggattaataatttttagttggtggggtttaataggaagagtagttgttatagtgggtcacggattatgtt
+    T_arcuata             tgttctgtgtgggttaataatttttagttgatggggtctaatgggaagagtggttgttatagttggtcatggactatgtt
+    T_paradussumieri      tgttctttgcggactgatgatttttagctgatgaggcttaataggaagagtagttgttatagtaggtcatggattgtgtt
+    T_polita              cgttctttgtgggttgataattttcagttggtgaggtttaataggaagagtagttgttatagtgggccatggtttatgtt
+    T_rosea               tgttctttgtggattaataatttttagttggtggggtttaatgggtagagtagtcgttatggtaggtcatggtttatgtt
+
+    G_borealis            cttccggtcttttttgtctagcgaatatggtttatgagcgtgttgggagccgaagattgtttattaggaaaggtttatta
+    T_Capricornis         cttcaggtcttttctgtttagctaatatagtctatgagcgtgtaggaagtcgtagacttttaattagtaaaggtttatta
+    T_acuta               cttctggtcttttttgtttagcgaatatggtttatgaacgagtaagaagtcgtagtcttttaattagtaaaggtttatta
+    T_alcocki             cttccggtcttttttgtttagctaatatagtttatgaacgtgtaggaagtcgtagtcttttaattagtaaaggtttactt
+    T_arcuata             cttctggtcttttttgtttagctaatatagtgtatgagcgtgtaggaagtcgtagtcttttaattagtaaaggtttatta
+    T_paradussumieri      cttcaggtcttttctgtctagctaatatagtttatgagcgtgtaggaagtcgtagacttttaattagtaagggtttatta
+    T_polita              cttcaggtcttttttgtatggctaatatagtttatgagcgtgtaggaagtcgtagtcttttgattagtaagggcttgcta
+    T_rosea               cctctggtcttttttgtttagctaatatagtttatgaacgtgtaggaagtcgaagtcttttaattagtaaaggtttatta
+
+    G_borealis            agatttatacctagaatagggttatgatggtttttgttaagggtgagaaatatggctgcccctccttctttaaatttgct
+    T_Capricornis         aggtttatacctagaataggattatgatggtttttgttaagtgttagaaacatagcagctccaccttctttaaatttact
+    T_acuta               agatttatacctaggatagggttatggtggtttttattgagggtaagtaatatggcagctccaccttctttaaatttact
+    T_alcocki             aggtttatacctagaataggattatggtggtttttattaagcattagtaatatagcagctcctccttctttaaatttact
+    T_arcuata             agatttatacctagaataggattatgatgatttttattaagtgtaagaaatatagcagcccctccttctttaaatttgct
+    T_paradussumieri      aggtttatacctagaatagggttatgatggtttctattgagtgttagaaatatagcagctccaccctctttaaatttact
+    T_polita              agatttatacctagtataggattatgatgattcttattaagggttagaaatatagcagctcctccttctttaaatttact
+    T_rosea               agatttatacctagaataggattatgatgattcttattaagtgttaggaatatagcagcaccaccttctttaaacttact
+
+    G_borealis            tggtgagattaatcttattatcagtttggttagttgaaggagattaagtatatttgggctggcttttttatcttttttta
+    T_Capricornis         tggagaaattaatcttattattactttaattagttgaagaaagttgagtatgtgggggttagcatttttatcttttttta
+    T_acuta               tggtgaaattagtcttattattggcttagttagctgaagaaaattaagtatactagggttggcttttttatcttttttta
+    T_alcocki             tggagaaattaatcttattattactttaattagttgaagaaaattgagtatatgaggattagcatttttatcttttttta
+    T_arcuata             tggagaaattaatcttattattagtttaattagttgaagaaaactaagtatatgagggctagcgtttttatcctttttta
+    T_paradussumieri      tggagagattaatcttattattactttaattagttgaagaaagttaagtatgtgggggttagcatttttatcttttttta
+    T_polita              tggggagattaatcttattattagtttagttagttgaagaaaattaagtatatgaggactaggttttttatcttttttta
+    T_rosea               tggggaaattaatcttattattagtttaattagttgaagaaagttgagtatatgaggtttagcttttctatcttttttta
+
+    G_borealis            gggctagatacacattatatatatacagtttaagacagcatggagtgttttttactggcttgtattcatgcaggtcgggg
+    T_Capricornis         gtgctgcatatactttatatatgtatagtttaagccaacatgggttattttttagagggctttattcatgtaggtctggt
+    T_acuta               gtgctaggtatagtttgtatatgtacagtttaagacaacatgggttgttttttacgggtctgtattcatgtaggtctggt
+    T_alcocki             gtgctagatacaccttatatatatatagcttaagtcagcatgggttgttttttagggggttatattcatgtaggtctggt
+    T_arcuata             gtgctagttatactttatatatgtacagtttaagtcagcatgggtcgttttttacaggattatactcttgtaggtcaggg
+    T_paradussumieri      gtgccggatatactttatatatgtatagtttaagtcaacatgggttattctttagagggctttattcgtgtaggtctggt
+    T_polita              gtgctagatatactttatatatatatagattgagtcaacatgggttgttttctagagggttatactcatgtaggtctgga
+    T_rosea               gtgctagatatactttatatatatatagtttaagtcaacatggattgttttttacggggttgtattcatgtagatctggt
+
+    G_borealis            aaagttcgtgagtatttagtgttatttcttcattgattccctttaaatgtactaattttaaatgtgaat-----------
+    T_Capricornis         aaagttcgtgaatatttagtattgtttttacattggtttcctttaaatatactaattttaaatgtaaattta--------
+    T_acuta               aaagttcgtgagtatttagtattatttttacattggtttcctttaaatatactaattttaaatgtaaattta--------
+    T_alcocki             aaagttcgtgaatatttggttttatttttacattggtttcctttaaatattttaattttaaatgtaaat-----------
+    T_arcuata             aaagtccgtgagtattttgtattatttttacattgattccctttaaatatattaattttaaatgtgagt-----------
+    T_paradussumieri      aaagttcgtgaatatttagtattgtttttacattggtttcctttaaatatactaattttaaatgtaaatttaattaatgg
+    T_polita              aaagtacgagagtatttagtattatttttgcattgatttcctttaaatgcactaattttaaatgtaaatctgattactgg
+    T_rosea               aaggttcgtgagtatttagtattatttttacattgatttcctttaaatgtattaattttaaatgtaaat-----------
+
+    G_borealis            --------------------------------------------------------------------------------
+    T_Capricornis         ----------------------------------------------------------------------------attt
+    T_acuta               -------------------------------------------------------------gggctgtggggatttattt
+    T_alcocki             ----------------------------------------------------------------------------attt
+    T_arcuata             ----------------------------------------------------------------------------attt
+    T_paradussumieri      ggtttaaatgataaatcttaatttgtttgcaatatttatttcagtaggtataattttttgtgggttatggagatttattt
+    T_polita              ggtttagatggtaaatcttaatttgtttacagtttttgtttcagtagctataattttttgtgggttatgaagatttattt
+    T_rosea               ----------------------------------------------------------------------------attt
+
+    G_borealis            --tataataaacatttattaaattctcttctgagccttgagttcataatacttggaattttttggttattaagggttaga
+    T_Capricornis         cttaccataaacatttattaaattctttactaagacttgagtttataatattgggtattttttggttgttaaggattagt
+    T_acuta               cttaccataagcatttattgaattctttattaaggttagagtttataatgttaggtattttttggctattaagagttagt
+    T_alcocki             cttaccataagcatttattaaattctttgttaagacttgaatttataatattgggtattttttggttattaagaataaat
+    T_arcuata             cttaccataaacatttattgaattctttattaaggcttgagtttataatattgggtattttttggttgctgagaattagt
+    T_paradussumieri      cttatcataaacatttattaaattctttactaagacttgagtttataatactgggtattttttggttgttaaggatcagt
+    T_polita              cttatcataaacacttattgaattctttattaagtcttgaatttataatattgggtattttttgattgttaagaactagt
+    T_rosea               cttatcataaacatttattgaattctttattaaggctagagtttataatactaggtattttttggttattaagaattagt
+
+    G_borealis            atgtctatagttggaagagaaatttatattggtctgttttttttgactttagctgtatgtgagggtgctttaggtctttc
+    T_Capricornis         atatctatagtcggtagggaagtttatatcggtttattttttttaactttagcggtgtgtgaaggcgccttaggtctttc
+    T_acuta               atgtctatagttgggagagagatttatgttggtttattttttttgactttagcagtatgtgaaggagctttagggctttc
+    T_alcocki             atagctatagttggtagagaagtttatcttggtttattctttttaactttagcagtctgtgaaggtgctttgggtctatc
+    T_arcuata             atgtctacggtaggcagggaaatttatcttggtttgttttttttaactttagcagtgtgtgagggtgctttaggtctttc
+    T_paradussumieri      atatctatagtcggtagggaagtttatatcggtttattctttttgactttagcggtgtgtgaaggtgctttaggtctttc
+    T_polita              atatctatagttggaagagaaatttatgtaggtttattcttcttaactttagcggtatgcgaaggtgctttaggtctttc
+    T_rosea               atgtctatagtcggcagggaaatttatgttggcttattttttttaactttagcagtatgtgagggtgctttaggtctttc
+
+    G_borealis            tctattagtgttaattgtgcggagacatggaaatgattattttaaaagatttaatattctagagtgt-------------
+    T_Capricornis         tttgttagttttaattgttcgtagccatggaaatgactattttaaaagatttaatttcttggagtgt-------------
+    T_acuta               tttattaattttagttgttcgtagtcatggaaatgattactttaaaaggtttagtgttttagaatgt-------------
+    T_alcocki             tttgttggttttaattgttcgtagtcatggaaatgattattttaaaagatttaattttttggagtgt-------------
+    T_arcuata             tttgttagttttaattgtccgtagacatggaaatgattatttcaaaaggtttagcgttctagaatgt-------------
+    T_paradussumieri      tttgttagttttaattgttcgtagccatggaaatgactattttaaaagatttaattttttggagtgttaaattattagga
+    T_polita              tttgttagttttaattattcgtagtcatgggaatgattattttaaaagatttaatgtgttagaatgttaaattattagaa
+    T_rosea               cttgctggttttaattgttcggagtcatggaaatgactattttaaaagatttaatgttttagaatgt-------------
+
+    G_borealis            --------------------------------------------------------------------------attatt
+    T_Capricornis         -----------------------------------------------------------------gaagctgatgtagtt
+    T_acuta               --------------------------------------------------------------------------gtagtt
+    T_alcocki             -----------------------------------------------------------------gaagttgatgttgtt
+    T_arcuata             --------------------------------------------------------------------------gtggtt
+    T_paradussumieri      tattatttttaggactaagttcttttttctgtagattatttttctttgtaaaagctttcagtggtggagctgatgtagtt
+    T_polita              tattatttttaggattaagttctgtttcttgtagattatttttttttgtaaaagcctttagaggtgaagttgatttaatt
+    T_rosea               -----------------------------------------------------------------gaggctgatgtagtt
+
+    G_borealis            gaatgagaaattgtgtctttaaattcatcttctatttgttttgttataatttttgattgaatctccatattatttatatc
+    T_Capricornis         gagtgagaaattatctctttaaactcttcatctatttgttttgttataatttttgattgaatttctatattatttatatc
+    T_acuta               gagtgggagattatttctttaaattcttcttgtgtctgttttgtaatgatttttgatagaatttctatgttgtttatgtc
+    T_alcocki             gaatgggagattatttctttaaattcttcatccatttgttttgttataatttttgattgaatttctatattatttatatc
+    T_arcuata             gagtgagaaataatttctttaaattcttcgtctatctgttttgtaataatttttgattgaatttccatattattcatgtc
+    T_paradussumieri      gagtgagaaattatttctttaaattcttcgtctatttgttttgttataatttttgattgaatttctatattatttatatc
+    T_polita              gagtgagaaattatttctctaaattcttcatctatttgttttgtaataatttttgattgaatttctatattgtttatgtc
+    T_rosea               gaatgggagattatttctttaaattcttcgtctatttgttttgtaataatttttgattgaatttctatattgtttatatc
+
+    G_borealis            ttttgttttattaatttcaagaagtgtaatatattatagtgggagttatataggaggagataaaaatttcaatcggttta
+    T_Capricornis         ttttgtcttattaatttcaagaagtgtaatatactacagtgggagttacataagtgaagataaaaattttaatcgtttta
+    T_acuta               ctttgttttattaatttcgagaagtgtgatgtattacagaggaagatatataagtgaagataaaaattttaatcgattta
+    T_alcocki             ttttgttttattaatttcaagaagtgtaatatattatagagggagatacataagtgaagataaaaattttaatcgtttta
+    T_arcuata             ttttgtattattaatttcaagaagtgtaatgtattacagggggaggtatataagtgaggataaaaattttaatcggttta
+    T_paradussumieri      ttttgttttattaatttcaagaagtgtaatatattatagtgggagttatataagtgaagataaaaattttaatcgtttta
+    T_polita              ttttgttttattaatttctaggagtgtaatatattatagaggaagttatatgagcgaagataaaaattttaatcgtttta
+    T_rosea               ttttgttttgttaatttcaagaagtgtaatatattatagaggaagatatataagcgaggataaaaattttaaccgtttta
+
+    G_borealis            tatatcttgtcttggcttttgtattttctataataatgatagtgttgagacctaatttaattagtatccttttagggtga
+    T_Capricornis         tgtatcttgttttggcttttgtattttctataatgataatagttttaagacctaaccttattagtattcttttagggtga
+    T_acuta               tgtatttggttttggcttttgtgttttctataataataatggttttaaggccaaatcttattagtattcttttagggtga
+    T_alcocki             tatatcttgttttggcttttgtgctttctataataataatagttttaagtcctaatcttattagtattctcttaggatgg
+    T_arcuata             tatatcttgttttagctttcgtgttttctatgataataatggttttaagacctaatcttattagtattcttttaggatga
+    T_paradussumieri      tatatcttgttttggcttttgtattttctataataataatagttttaagacctaatcttattagtattcttttagggtga
+    T_polita              tatatttagttttggctttcgttttttctatgttgataatggttttaagacctaatcttattagtatccttttaggatga
+    T_rosea               tatatcttgttttggcttttgtattttctataataataatagttttaagacctaatttaattagtattcttttgggatgg
+
+    G_borealis            gacgggctaggtcttgtttcttatgctcttgttattttttaccagaatgaaaaatctgctaatgctggtatattaactgt
+    T_Capricornis         gatggcctaggactcgtatcttatgcactcgttattttttaccaaaatgaaaaatctgctaatgctgggatattaactgt
+    T_acuta               gatggcctaggccttgtttcttatgctcttgttattttttatcaaaatgagaagtctgctaatgctggaatgttaacggt
+    T_alcocki             gatgggctaggtcttgtgtcttatgcccttgttattttttaccaaaatgaaaaatctgctaatgctggaatgttaactgt
+    T_arcuata             gatgggctaggccttgtatcttatgcgcttgtaattttttatcaaaatgagaaatctgctaatgccggaatgttaactgt
+    T_paradussumieri      gacggcttaggcctcgtatcttatgcacttgttatcttttatcaaaatgaaaaatctgctaatgctgggatattaactgt
+    T_polita              gatgggttagggcttgtatcttatgcccttgttattttttatcagaatgaaaaatctgctaatgctgggatattaactgt
+    T_rosea               gacggtttaggtcttgtatcttatgctcttgttattttttatcagaatgagaaatctgctaatgctgggatattaactgt
+
+    G_borealis            tctttcaaatcgtgttggggatgtagccattttattaagtattggtttgatagtgagagttggtaggtgaaccttttttt
+    T_Capricornis         tttatctaaccgtgttggtgatgttgctattttattaagtattggtttaatagtgaggttaggaagatgaaattttttgt
+    T_acuta               cttatcaaatcgtgtaggggatgttgctattttattgagtatcggtttgatagtaagattagggagatgaaattttttgc
+    T_alcocki             gttatctaatcgtgttggtgatgttgctattctgttaagtattggtttaatagtaaggttaggaagatgaaattttttat
+    T_arcuata             tttgtcaaatcgtgttggagatgtcgctattttgttaagtattgggttaatagttagtttagggaggtgaaattttttat
+    T_paradussumieri      tttatctaaccgtgttggtgatgttgctattttattaagtattggtttaatagtgaggttaggaagatgaaattttttgt
+    T_polita              tctttccaatcgtgttggtgatgttgctattctattaagtattggtttaatagtaagattaggaagttgaaattttttga
+    T_rosea               tttatctaatcgtgtaggtgatgttgctattttattaagtattggtttaatagtaagattgggaaggtgaaattttttga
+
+    G_borealis            attacaggtattatattgaggataaaaggtgagtaataataaagtttttagttatgctagctgcaataactaaaagtgct
+    T_Capricornis         tttatagatattatattatggatagggagtgagtaataatgaagtttttagtaatattagcagcaataacaaaaagtgct
+    T_acuta               tttataggtattacattatggatagagagtgagtattaatgaagtttttagtgatattagcggcaataacaaagagtgct
+    T_alcocki             tttatagatattatattatggacaaagagtgggtaataatgaaatttttagtaatgctagcggcaataacaaaaagtgct
+    T_arcuata             tttatagatactatattatagataaagagtgagtgataataaaatttttagtaatattagctgcaataacaaaaagtgct
+    T_paradussumieri      tttacaggtattacattatggacggggagtgagtaataatgaagtttttagtaatattggcagcaataacaaaaagtgct
+    T_polita              tttacagatattaccttatagataaagaatgagttttaataaaatttttagtaatattagcagcaataacaaaaagtgct
+    T_rosea               tttatagatactatattatggataaagagtgagttacaataaagtttttagtaatattggcggcaataacaaaaagtgct
+
+    G_borealis            caaatccccttttctgcttggttacctgctgccatagcagcacccacaccagtgtctgctttagtgcattcgtcaactct
+    T_Capricornis         caaattccattttctgcttgattaccagcagctatagctgctccgacaccggtttcggctttagttcattcgtcaactct
+    T_acuta               caaattcccttttctgcttggttgccagcagctatggctgctccaacaccggtttcggctttagtacattcatctactct
+    T_alcocki             cagattccgttttctgcttgattaccagcagctatagctgctccaacaccagtttcagctttagtacattcatcaactct
+    T_arcuata             caaattccattttctgcttgattaccagcagccatggctgctccaacaccagtttcagctttagtccattcatcaactct
+    T_paradussumieri      caaattccattttctgcttgattgccagcagctatagctgctccaacaccggtttcggctttagttcattcgtcaactct
+    T_polita              caaattccattttctgcttgattgccagcagcgatggctgctccaacaccagtttcagctctagtacattcgtcaactct
+    T_rosea               caaattccgttctctgcttggttaccagcagctatggcagctcctacaccagtttcagctctagtacattcatcgactct
+
+    G_borealis            tgtaacggctggggtctatcttataattcggtttaggtctgctttagaggggtctaaaattcaaaggatattgttaatta
+    T_Capricornis         tgtaacagctggggtgtatcttataattcggtttagttctgctttagaaggttcaaaaattcagaggatattattaatta
+    T_acuta               tgtaacagctggggtgtatcttataattcgatttagttctgctttagaggggtcaaagattcagagtatattattgatta
+    T_alcocki             tgtaacggctggagtgtaccttataattcggtttagttctgctttggagggatcaaaaattcagagtatactattaatta
+    T_arcuata             tgtaacggctggtgtgtaccttataattcgatttagttctgctttagaaggttcaaaaattcaaagcatgttattaatta
+    T_paradussumieri      tgtgacagctggggtgtatcttataattcggtttagttccgctttagaaggttcaaaagttcaaaggatattattaatta
+    T_polita              tgtgactgccggtgtgtatcttataattcgatttagttcagctctagaaggttcaaaaattcaaagaatgttattaatta
+    T_rosea               tgtaacagctggtgtatatcttataattcgatttaggtctgctttagaaggttctaaaattcaaagtattctattagtta
+
+    G_borealis            tttcttgtttaactatgttcatagcaggacttggggctaattttgagtacgatttaaaaaaaattattgccttatcaact
+    T_Capricornis         tttcttgtttaactatatttatggctggtttaggggctaattttgagtgtgatttaaaaaaaattattgctttatcaact
+    T_acuta               tctcttgtctaactatatttatagctgggctgggggctaattttgagtgtgatttaaaaaaaattattgctttatcaact
+    T_alcocki             tttcttgtttaactatatttatagcagggctaggagctaattttgagtatgatttaaaaaaaattattgctttatcaact
+    T_arcuata             tttcttgtttaactatatttatagctgggttgggggctaattttgagtgtgatttaaaaaaaattattgctttatcaact
+    T_paradussumieri      tttcttgcttaactatatttatggcaggcttaggggctaattttgagtgcgacttaaaaaaaattattgctttatcaact
+    T_polita              tttcttgtttaactatatttatagcagggttgggtgctaactttgagtgtgatttaaaaaaaatcattgctctatcaact
+    T_rosea               tttcttgtttaactatatttatagctggattaggggctaattttgagtgtgatttaaaaaaaattattgcactatcaact
+
+    G_borealis            ttaagtcaattaggtgtaatattaagaattttggctttaggatatcctgatctttctttttttcatcttttaagtcatgc
+    T_Capricornis         ttaagtcaattgggagttatacttagaattttggctttaggttatccggatctttctttttttcatcttttaagtcacgc
+    T_acuta               ttaagtcagcttggtgtaatacttagaattttagctttaggttatccagatctttctttttttcatcttttaagtcatgc
+    T_alcocki             ttaagtcaattaggggtaatacttagaattttagctctaggttatcctgatctctcttttttccatctcttaagtcatgc
+    T_arcuata             ttaagtcaattgggagtaatactcagaattttagctttaggttatcctgatctttcttttttccaccttttaagtcatgc
+    T_paradussumieri      ttaagtcaattgggggtgatacttagaattttggctttaggttatccggatctttctttttttcatctcttaagtcatgc
+    T_polita              ttaagtcaattaggagtaatgcttagaattttagctttaggttatcctgatctttctttttttcaccttttaagtcatgc
+    T_rosea               ttaagtcaactgggagtaatgcttagaattttggctttaggttatcctgacctttctttttttcatcttttaagtcatgc
+
+    G_borealis            tttatttaaagctttactatttatatgtgcgggggtattaattcatagtgtaaatggttaccaagatattcgttatatag
+    T_Capricornis         tttatttaaagccttattgtttatatgtgcaggagttttaatccacagagttagagggtaccaagacatccggtatatag
+    T_acuta               tttgtttaaggctttactgtttatatgtgcgggggttttaattcatagggttagaggttatcaggatattcgatacatag
+    T_alcocki             tttatttaaagctttattatttatatgtgcaggtgttttaattcatagggtcagtggatatcaagatattcgatatatag
+    T_arcuata             tttatttaaagctttgttatttatatgtgcgggagttttaattcatagagttagaggatatcaagatattcggtatatag
+    T_paradussumieri      tttatttaaagctttactatttatatgtgcaggagttttaatccatagagttagagggtaccaagatattcgatatatag
+    T_polita              tttatttaaggctttattgtttatatgtgcaggggttttaatccatagggttagaggatatcaagatattcgatatatag
+    T_rosea               tttatttaaagctttactatttatgtgtgcaggggttttaattcatagagttagaggataccaggatattcgatatatag
+
+    G_borealis            gctgtttaattaaatttatacctttaagtgtttcttacataacagtggcaaatttagctttatgtggatttccgttttta
+    T_Capricornis         gttgtctagtaaaatttatacctttaagtgtttcttatataatagtagcaaatttagctttatgtgggtttcccttttta
+    T_acuta               gttgtcttgtaaaatttatacctttaaggatatcttatataatggtagcaaatttagctttatgtgggtttccgttctta
+    T_alcocki             gttgtttagtaaaatttatacctttaagtgtttcttatataacggtggcaaatttggctttgtgtgggtttccttttttg
+    T_arcuata             gttgtttagtaaaatttatacctttgagtgtatcttatataatagtagcaaatttagctttatgtggatttcctttttta
+    T_paradussumieri      gctgtctagtaaaatttatacctttgagtgtttcttatataatagtagcaaatttagctttatgtggatttcccttttta
+    T_polita              gttgtttagtaaaatttatacctttaagtgtttcttatataatagttgctaatttagctttatgtgggtttccattttta
+    T_rosea               gttgtttagtaaaatttatacctttaagtgtttcttatataatagtagcaaatttagctttatgtgggtttccttttttg
+
+    G_borealis            gctggattttattcaaaagatataattttagaagttgcttttataaggtgaattaattttatttctttagttttatatat
+    T_Capricornis         gctggattttattctaaggatataattcttgaagttgcttttataagttgaattaattttatttctttaattttatatat
+    T_acuta               gctgggttttattctaaggatctaattttggaaattgcttttataagttgaattaattttgtttctttaattttatatat
+    T_alcocki             gctggattttattctaaagatataattttagaggttgcttttataagttgaattaattttatttctttaattttatatat
+    T_arcuata             gctggattttattctaaggatataattttagaagtcgcttttttaagttgaatcaattttgtttctttaattttatatat
+    T_paradussumieri      gctggattttattctaaagatataattcttgaggttgctttcataagttgaattaattttatttctttaattttatatat
+    T_polita              gctggattttattctaaagatataattttggaggttgcttttataagttgaattaattttatttctttaattttatatat
+    T_rosea               gctggattttattctaaagatataattttggaagttgcttttataagttgaattaattttatttctttaattttgtatat
+
+    G_borealis            tttagctacagggttaactgtaagttatactttacgcttgatttattttaggcttagcggggcttttaacttaggttcaa
+    T_Capricornis         tatggccaccggtctaactgtgagttatactctacgtttagtctattttaggcttaggggagtatttaatttaaggtctt
+    T_acuta               tatggctactggtctgactgtgagctatacactacgtttggtctattttagccttagaggtgtgtttaatttaaggtctt
+    T_alcocki             tatgactactggtttaactgtaagttatacattacgtttagtttattttaggttaagaggaaggtttaatttaagatctt
+    T_arcuata             tatggcgactggtctaactgtaagttatactttacgtttagtttattttaggcttagaggagtttctaatttaaggtctt
+    T_paradussumieri      tatggccaccggtttaactgtaagttatactttacgtttagtttactttaggcttaggggggtatttaatttaaggtctt
+    T_polita              tatggctactggtttaactgtaagttatactttacgtttagtttattttaggcttagagggaggttcaatctaagatctt
+    T_rosea               catggctactggtttaactgtaagttatactttacgtctagtttattttaggcttagaggagtttttaatttaagatctt
+
+    G_borealis            taacaaatgtgagggatagagataaaattataacaagttcgataactttattggggtttagggctgttattatagggtct
+    T_Capricornis         taacaaatgtaagagatgaagataaaattataacaaattcaataactttattaggttttagggctgttattataggatca
+    T_acuta               taacaaatgtgagtgatgaagacaaaattataacgagttcaataactttattaggttttagagctgtaattatagggtct
+    T_alcocki             taacgaatgtaagagatgaagataaaattataacaaattcaataactttattaggctttagagctgttattataggatca
+    T_arcuata             taacaaatgttagggatgaagataaaattataacaaattcgataactttattaggttttagggctgtaattataggatct
+    T_paradussumieri      tgacaaatgtaagagatgaagataaaattataacaaattcaatgactttattaggttttagggctgttattatggggtca
+    T_polita              taaggaatgtgagagatgaagataaaattataacaaattctataactttactaggttttagagctgttattatgggatct
+    T_rosea               tagcaaatgtaagagatgatgataagattataacaaattcaataactttattaggtttcagagctgttattatgggatct
+
+    G_borealis            attttgtcttggttattgtttcctgaaccttatataatttgtttaaggtttataataaaaaatttggtgattataattac
+    T_Capricornis         attttatcttgattattgtttcctgaaccctatataatttgtttaagatttgagataaaaaatctagtaattataattag
+    T_acuta               attttatcttgattattatttcccgaaccttatataatttgtttgaggtttggaataaaaaatttagtaatttttattag
+    T_alcocki             attttgtcttgattattatttcctgaaccttatataatttgtttaagatttgaaataaaaaatttagtgatttcaattag
+    T_arcuata             gttttatcttgattattatttcccgaaccttatataatttgtttaaggtttgagataaaaaatttagtgttactaattag
+    T_paradussumieri      attttatcttgattattgtttcctgaaccctatataatttgtttaagatttgagataaaaaatctagtaattataattag
+    T_polita              attctatcttggttattatttcctgaaccttatataatttgtctaagatttagaataaaaaatctagtgattttaattag
+    T_rosea               attttgtcttgattattgtttcctgaaccttatataatttgtttaagatttgaaataaaaaacttagtaattttaattag
+
+    G_borealis            tattttaggtgggtttgtcggttacataataaacttagtaaatgttagttacaatctcaaatctttagaaaattatagat
+    T_Capricornis         gatagtaggaggaggcttaggttacatattaaatttagtaaatgtaaatcacaatttaaaatctttaagaagctacaagt
+    T_acuta               aatcagaggaggacttttagggtatatgttaaatttaataaatgtaaattataatttaaagtctttaaaaaattataggt
+    T_alcocki             agctgtaggggcgggtttaggttatatattaaatttagtaaatgtaaattatagtttaaagtctttaaggaattacgggg
+    T_arcuata             aattataggtgggggtttaggatatatactaaatttagtaaatgtaaattataatttgaaatctttaagaaattatagat
+    T_paradussumieri      gatggtaggaggaggcttaggttacatattgaatttagtaaatgtaaatcacaacttaaaatctttaagaagttacaagt
+    T_polita              aattgtaggcggagttttaggatatatgttaaatatagtaaatgttaattacaatttaaaatctctaaaaagttatgagt
+    T_rosea               aattgtaggtggttttttagggtatatattaaatttagtaaatgtaaattataatttaaagtctttaagtaattataggt
+
+    G_borealis            ttgtagtaatttcaggttctatatgatttataccttttttaagcactaaaaatttaagaagagtatatttaaaaagaggg
+    T_Capricornis         ttgttgttataagaggttctatgtgatttatgccttttttaaggactaaaaatttaaggaaattttatctaaatagaggt
+    T_acuta               ttgtttctataagaggttctatgtgatttatgccttttttaaggactaaaaatttaaggaaagtttacttaaatagaggg
+    T_alcocki             ttgtcgttttatgaggttctatgtggtttatgccttttttaaggactaaaaatttgagaaagttttatttaagtgggggt
+    T_arcuata             ttgtagtaataagaggttctatgtgatttataccttttttaagaactaaagatttaagaaaaatttatttaaacagtggg
+    T_paradussumieri      ttgttgttataagaggttctatatgatttatgccttttttaaggactaaaaacttaaggaaattttatctaaataggggc
+    T_polita              ttgttgtaataagaggttctatatgatttataccttttttaagaactaaaaatttaagagaattttatttgaacaggggg
+    T_rosea               ttgttgttataagaggttctatatgatttatacctttcttaagaactaagaatttgagtaaagtttatttaaatagtggg
+
+    G_borealis            gagtcggctgaaaaactgatagataaggggtgatacgagtatttaggtgctcagggactatattatttcttttctaaagg
+    T_Capricornis         gagaatatagaaaaattaatagataaaggctggtatgagtacttaggaggtcagggtttatattattgtttttcaaagtt
+    T_acuta               ggaagcatggagagattggctgataaaggctgatatgaatatttaggaggccaggggctatactattgtttttctaaact
+    T_alcocki             gaaaatatagaaaagttaatggataaaggttgatatgaacatttaggaggtcaaggattatattactgtttttttaagtt
+    T_arcuata             ggaaacatagaaaagttgatggataaaggttgatttgaatatttaggaggacaggggttatattattgtttttctaaaat
+    T_paradussumieri      gaaaatatagaaaaattaatagataagggctggtacgagtacttaggaggccaaggtttatactattgtttttcaaagtt
+    T_polita              gaagtcatagaaaaattaatagataagggttgatatgaacatttaggcggccaaggattatattattgcttttcgaaatt
+    T_rosea               gaaaacatggaaaagctaatagataagggctggtatgaacacttaggggggcaaggactgtattactgtttctcgaaatt
+
+    G_borealis            gttttatatcttgaatgaacttcaaataaatagaatcaaggtgtttata-------------------------------
+    T_Capricornis         attttacattttaaatgagcttcaaatcaatagcattaaggtgttt----------------------------------
+    T_acuta               atttaatattttaaatgagcttcaaattaatagtattaag----------------------------------------
+    T_alcocki             attccacattttaaataaacttcaagttaacagtattaaagtgtttataaaaatgttt----------------------
+    T_arcuata             gttttatactttaaatgagcttcaaattaacagtgttaaagtgtttata-------------------------------
+    T_paradussumieri      attctacattttaaatgaactccaagtcaatagtattaaggtgtttataaaaatatttattgtgagggttgtaatcttgt
+    T_polita              attttatgttttaaatgagcttcaagttaatagtattaaagtatttatgaaaatatttattataagtgtagtaattttat
+    T_rosea               attttatgttttaaacgagcttcaaattaatagtgttaaggtatttataaaaatgttcatt-------------------
+
+    G_borealis            --------------------------------------------------------tcaatcctttttactcagctttct
+    T_Capricornis         --------------------------------------------------------tcaattttattcacacaactttct
+    T_acuta               --------------------------------------------------------tcaattttgtttacacaactttct
+    T_alcocki             --------------------------------------------------------tcaattttatttacacaactttct
+    T_arcuata             --------------------------------------------------------tcgattttatttacacaactctct
+    T_paradussumieri      tattttttatttttatttaaattttattattaactttaccattacttttaagattctcaattttattcacacaactttct
+    T_polita              tattttttattttcatttaa---------------------------------------attttatttacacaactatct
+    T_rosea               --------------------------------------------------------tcaattttatttacacaactctct
+
+    G_borealis            catcccttagctatgggtttaattctccttattcaaactctactaatttccattaccttaggattatcaaggttttcttt
+    T_Capricornis         caccctctagccataggcttagttttacttattcaaactttatttattgctatctctctagggttatcaagcttttcctt
+    T_acuta               catcctttagctataggtttagtcttacttattcaaactactcttatttctatctctcttggactctcaagtttctcttt
+    T_alcocki             catcccttagctataggtttagttctacttattcaaaccctacttatttctatctctctagggttatcaagattttcttt
+    T_arcuata             catcctttagccatagggttagttttactaattcaaaccttacttatctctgtttctctgggcctatcaagtttttcttt
+    T_paradussumieri      caccccttggccataggcttagttttacttattcaaactttatttatttctatctctctagggttatcaagtttttcctt
+    T_polita              cacccattagctataggcttaattttgcttattcagactttacttatttcaatctcgttaggattatcaagtttttcttt
+    T_rosea               caccctttagctataggactagttttacttattcaaactttacttatttctatttccttgggactatcaagcttttcttt
+
+    G_borealis            ctgattttcgtatattctatttttaatttttttaggcggtatactagttctatttatttatgttgcttcaattgcatcaa
+    T_Capricornis         ctgattttcttatattttgttcttgatttttttaggaggtatattagttttatttatttatgtagcttcgattgcctcta
+    T_acuta               ttggttctcctatattttatttttaatttttttaggaggaatgttagttctatttatttatgtggcctcaattgcttcca
+    T_alcocki             ttgattttcttatattttatttttaatttttttagggggaatactagttttattcatttatgtagcttcgattgcttcta
+    T_arcuata             ttgattttcttatattttatttttaattttcttagggggtatactagtcttattcatttatgtagcttcaattgcttcta
+    T_paradussumieri      ttgattttcttatattttattcttgatttttttaggaggtatattagttttatttatctatgtagcttcaattgcctcca
+    T_polita              ttgattctcttacattttatttttaatctttttaggaggtatgttggttctatttatttatgtagcttcacttgcctcaa
+    T_rosea               ctgattctcttatattctatttttaatttttttaggagggatgctagttttatttatttacgtagcatcaattgcttcta
+
+    G_borealis            acgaaaccttcatcccctcaatatcatat------ttttttgttgtagctgcttcattaattttatcattaagactttta
+    T_Capricornis         atgaagtttttattccttccacttcgtatttaatcttttttattctggcagctt------tcttttctttgacgctttta
+    T_acuta               acgaagtttttactccctccgtttcatacttagttttctttgtcttgacagcgc------ttatatctatggtacttctt
+    T_alcocki             atgaagcttttatcccctctacctcttatctaatctttttttttttagcaactt------ttttctccgtaacattttta
+    T_arcuata             acgaagtatttattccatcaacttcgtacttagcattttttttcctagccacct------ttttttctttgacactctta
+    T_paradussumieri      atgaagtttttattccttccgcttcatatctaatcttttttattctagcagctt------tcttttctctaacactttta
+    T_polita              atgaagcttttgtaccttccactttatatctagtaatttttatattaacgactt------ttttttctataatactcttg
+    T_rosea               atgaagcttttgttccatcatcttcatatttacttttcttcttcttagcaactt------ttttttctataatacttata
+
+    G_borealis            gtactcgaccccttcttaacttccagatcatcatctttaccatggtcttcttttttcgtctcagcctctgttccttcaac
+    T_Capricornis         tttattgacccgctaataacctcaagatcttcatctttaccttggtcctctttttcaatctcgacttcaaccccggcaat
+    T_acuta               tttatagaccctcttttaacctcaaggcatatatctttacccttgtcttctttttcatcctcagtttcaaccccatctgt
+    T_alcocki             tttattgacccaattataactacaagatcatcatctttaccctgatcttctttttcaatctcaacctcagttccaataat
+    T_arcuata             tttctagacccactcataacttcaagatcctcttctttaccttgatcttccttttcaaccttaacctcaaccccgtcgat
+    T_paradussumieri      tttattgaccctttaatgactccaagatcttcatctttaccttgatcctcttcttcaatctcaacttcaaccccagcaat
+    T_polita              tttattgacccgattataacttcaagatcgtcatctctaccttgatcttctttttcaacctcaactctaaatccatcaat
+    T_rosea               tttcttgatccaattataacttcaaggtcatcatccttaccctgatcttctttttctttttccgcctccatcccatcagt
+
+    G_borealis            cattagatgaatttataactcgccttctataagatttactatctttgttatttgttacttacttttaatattaattattg
+    T_Capricornis         tattagctgaatttataacactccttcaataagttttactatttttattatttgttatcttcttcttatattaatcattg
+    T_acuta               aatcagatgaatttataacaccccttcaataaattttactattttcattatttgttatcttctccttatattaattgttg
+    T_alcocki             tattagatgaatttacaattctccctcgataaactttactattttcattatttgttatcttctccttatattaattattg
+    T_arcuata             tattggatgaatttataatactccttcaataaactttactattttcattatttgttacttacttcttatattaattattg
+    T_paradussumieri      tattagttgaatctataacactccttcaataaattttactatttttattatttgttatcttcttcttatattaatcattg
+    T_polita              tattatgtgaatttataacacaccttcaataaattttaccatttttattatctgttatcttttacttatattaattatcg
+    T_rosea               tatcagatgaatctacaacactccttccataaattttactatttttattatctgctatcttcttctaatactaattattg
+
+    G_borealis            tagttaaaattgttaatctatttaaaggacctttacgc---------------
+    T_Capricornis         tagttaagattgttaacctttttaaaggacctttacgt---------------
+    T_acuta               tagttaaaattatcaatttatttaaaggtcccctacgcctt------------
+    T_alcocki             tagttaaaattattaatctttttaaaggacctttacgtctt------------
+    T_arcuata             tagttaaaatcgttaatcttttcaaaggacccttacga---------------
+    T_paradussumieri      tagttaaaattattaatctttttaaagggcctctacgtcttatacaagaataa
+    T_polita              tagttaaaattgttaatctctttaaaggacccctacgacttatacaagaataa
+    T_rosea               tagttaaaattattaatctttttaaaggacctttacgc---------------
+  ;
+END;
+

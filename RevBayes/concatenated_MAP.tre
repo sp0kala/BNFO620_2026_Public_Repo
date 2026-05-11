@@ -1,0 +1,19 @@
+#NEXUS
+
+	Begin taxa;
+	Dimensions ntax=8;
+	Taxlabels
+		G_borealis
+		T_Capricornis
+		T_acuta
+		T_alcocki
+		T_arcuata
+		T_paradussumieri
+		T_polita
+		T_rosea
+		;
+End;
+
+Begin trees;
+tree TREE1 = [&U](G_borealis[&index=8]:0.439383[&brlen_95%_HPD={0.388162,0.495175}],T_rosea[&index=7]:0.080006[&brlen_95%_HPD={0.063749,0.095665}],(T_polita[&index=6]:0.191503[&brlen_95%_HPD={0.168493,0.215531}],(T_acuta[&index=5]:0.208382[&brlen_95%_HPD={0.183161,0.235989}],(T_arcuata[&index=4]:0.159183[&brlen_95%_HPD={0.140432,0.1809}],(T_alcocki[&index=3]:0.123532[&brlen_95%_HPD={0.107845,0.14081}],(T_Capricornis[&index=2]:0.043289[&brlen_95%_HPD={0.035958,0.052158}],T_paradussumieri[&index=1]:0.031375[&brlen_95%_HPD={0.024299,0.039157}])[&index=9]:0.086470[&posterior=1.000000,brlen_95%_HPD={0.073269,0.100495}])[&index=10]:0.034571[&posterior=1.000000,brlen_95%_HPD={0.025162,0.045568}])[&index=11]:0.009541[&posterior=0.686806,brlen_95%_HPD={0.003717,0.017115}])[&index=12]:0.011349[&posterior=0.857619,brlen_95%_HPD={0.00407,0.020163}])[&index=13]:0.033982[&posterior=1.000000,brlen_95%_HPD={0.02142,0.047384}])[&index=14]:0.000000[&posterior=1.000000];
+End;
